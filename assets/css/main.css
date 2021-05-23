@@ -1,0 +1,33 @@
+body {
+    padding-left: 12rem;
+    padding-right: 12rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.content h1 {
+    margin-top: 1.5em;
+    color: #7952b3;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    background-image: url("/assets/images/header.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 12rem;
+}
+
+.jumbotext {
+    color: white;
+    margin-left: 4rem;
+    font-size: 4rem;
+}
+
+.content {
+    font-size: 1.5rem;
+}
