@@ -1,0 +1,31 @@
+a {
+    text-decoration: none;
+}
+
+.recipe-name {
+	font-size: 3rem;
+	color: #ee6002;
+}
+
+.content h1 {
+    margin-top: 1.5rem;
+    color: #7952b3;
+}
+
+.jumbotron {
+    margin-top: 1rem;
+    padding: 1rem;
+    padding-left: 2rem;
+    background-image: url('/img/header.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotext {
+    color: white;    
+    font-size: 4rem;
+}
+
+.content {
+    font-size: 1.5rem;
+}
