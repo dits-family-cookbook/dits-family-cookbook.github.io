@@ -1,0 +1,41 @@
+\documentclass[notitlepage,12pt]{report}
+\title{ {{ page_title }}\vspace{-1em} }
+{% if omit_date | default(True) %}
+\date{}
+{% endif %}
+\usepackage{titling}
+\pretitle{\begin{center}\Huge\bfseries}
+\posttitle{\par\end{center}}
+\usepackage{nopageno}
+\usepackage[top=0.5in,bottom=0.5in,left=1in,right=1in]{geometry}
+\usepackage{bookmark}
+\usepackage{enumitem}
+{% raw %}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+{% endraw %}
+\begin{document}
+\maketitle
+
+{% if page_preamble %}
+\begin{center}
+{{ page_preamble }}
+\end{center}
+{% endif %}
+
+{% if page_left and page_right %}
+\begin{minipage}[t]{0.4\textwidth}\vspace{0pt}
+
+{{ page_left }}
+
+\end{minipage}%
+\hfill
+
+\begin{minipage}[t]{0.6\textwidth}\vspace{0pt}
+
+{{ page_right }}
+
+\end{minipage}%
+{% endif %}
+
+\end{document}

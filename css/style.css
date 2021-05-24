@@ -12,6 +12,11 @@ a {
     color: #7952b3;
 }
 
+.content h2 {
+    margin-top: 1.5rem;
+    color: #ee0290;
+}
+
 .jumbotron {
     margin-top: 1rem;
     padding: 1rem;
