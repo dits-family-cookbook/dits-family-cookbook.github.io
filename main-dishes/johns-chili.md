@@ -15,7 +15,7 @@ layout: page
 * 2 tablespoon chili powder
 * 1 tablespoon cumin
 * 1 tbsp farm boy hot chocolate powder or an equivalent chunk of dark chocolate
-* minced garlic
+* 1 tbsp minced garlic
 * 1 tbsp Italian seasoning, ground in mortar and pestle or simply in your palm
 * 1 cup canned corn niblets, drained
 * 1/4 cup bbq sauce (Bull's Eye Hickory Smoked)
