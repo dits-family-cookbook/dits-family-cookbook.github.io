@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Breads
-
 # Baking & Desserts
 
 ## Bars
@@ -40,6 +38,7 @@ layout: default
 {% endif %}
 {% endfor %}
 
+# Breads
 
 # Main Dishes
 
