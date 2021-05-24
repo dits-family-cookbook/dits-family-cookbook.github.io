@@ -11,6 +11,15 @@ layout: default
 {% endfor %}
 
 
+# Main Dishes
+
+{% for page in site.pages %}
+{% if page.url contains "main-dishes"  %}
+[{{ page.title }}]({{ page.url }})
+{% endif %}
+{% endfor %}
+
+
 # Soups
 
 {% for page in site.pages %}
