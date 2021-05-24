@@ -2,10 +2,12 @@
 layout: default
 ---
 
-# Baking
+# Breads
+
+# Desserts
 
 {% for page in site.pages %}
-{% if page.url contains "baking"  %}
+{% if page.url contains "desserts"  %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
@@ -20,10 +22,15 @@ layout: default
 {% endfor %}
 
 
-# Soups
+# Salads
+
+# Soups and Stews
 
 {% for page in site.pages %}
 {% if page.url contains "soups"  %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
+
+
+# Vegetables and Sides
