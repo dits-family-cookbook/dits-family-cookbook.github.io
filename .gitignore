@@ -6,3 +6,4 @@ vendor
 *.bak
 *.tex
 *.pdf
+venv
