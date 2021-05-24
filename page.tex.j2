@@ -2,8 +2,10 @@
 \documentclass[notitlepage,12pt]{report}
 {% endraw %}
 \title{ {{ page_title }}\vspace{-1em} }
-{% raw %}
+{% if omit_date | default(True) %}
 \date{}
+{% endif %}
+{% raw %}
 \usepackage{titling}
 \pretitle{\begin{center}\Huge\bfseries}
 \posttitle{\par\end{center}}
@@ -18,7 +20,9 @@
 {% endraw %}
 
 {% if page_preamble %}
+\begin{center}
 {{ page_preamble }}
+\end{center}
 {% endif %}
 
 {% if page_left and page_right %}

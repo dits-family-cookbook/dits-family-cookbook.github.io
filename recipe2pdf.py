@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 
+
 import os
 import re
 import subprocess
 import sys
 import tempfile
 from pathlib import Path
+from datetime import datetime
 
 import attr
 from attr import attrib, attrs
@@ -65,12 +67,13 @@ def recipe2tex(recipe):
         page_right=recipe.directions
     )
 
-def make_chapter_tex(title):
+def make_chapter_tex(title, preamble=None, omit_date=True):
     with open("page.tex.j2") as f:
         t = E.from_string(f.read())
     return t.render(
+        omit_date=omit_date,
         page_title=title,
-        page_preamble=None,
+        page_preamble=preamble,
         page_left=None,
         page_right=None
     )
@@ -88,7 +91,7 @@ def tex2pdf(tex, name):
 
 
 if __name__ == "__main__":
-    tex = make_chapter_tex("Dit's Cookbook")
+    tex = make_chapter_tex("Dit's Cookbook", preamble=None, omit_date=False)
     tex2pdf(tex, "cover")
     p = Path(sys.argv[1])
     r = md2recipe(p)
