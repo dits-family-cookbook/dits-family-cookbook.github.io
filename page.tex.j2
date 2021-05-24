@@ -1,7 +1,7 @@
 {% raw %}
 \documentclass[notitlepage,12pt]{report}
 {% endraw %}
-\title{ {{ recipe.title }} }
+\title{ {{ page_title }}\vspace{-1em} }
 {% raw %}
 \date{}
 \usepackage{titling}
@@ -17,23 +17,29 @@
 \maketitle
 {% endraw %}
 
-{{ recipe.preamble }}
+{% if page_preamble %}
+{{ page_preamble }}
+{% endif %}
 
+{% if page_left and page_right %}
 {% raw %}
 \begin{minipage}[t]{0.4\textwidth}\vspace{0pt}
 {% endraw %}
 
-{{ recipe.ingredients }}
+{{ page_left }}
 
 {% raw %}
 \end{minipage}%
 \hfill
+
 \begin{minipage}[t]{0.6\textwidth}\vspace{0pt}
 {% endraw %}
 
-{{ recipe.directions }}
+{{ page_right }}
 
 {% raw %}
 \end{minipage}%
-\end{document}
 {% endraw %}
+{% endif %}
+
+\end{document}
