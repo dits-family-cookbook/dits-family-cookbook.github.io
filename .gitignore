@@ -5,5 +5,7 @@ _site
 vendor
 *.bak
 *.tex
+*.aux
+*.log
 *.pdf
 venv
