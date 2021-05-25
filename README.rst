@@ -9,6 +9,8 @@ Recipe Template::
   layout: page
   ---
 
+  Optional description or text here.
+
   # Ingredients
 
   * 1 cup this
