@@ -1,3 +1,11 @@
+html, body {
+	background-color: #ddd;
+}
+
+.container {
+	background-color: #eee;
+}
+
 a {
     text-decoration: none;
 }
@@ -10,11 +18,12 @@ a {
 .content h1 {
     margin-top: 4rem;
     color: #7952b3;
+    text-decoration: underline;
 }
 
 .content h2 {
     margin-top: 1.5rem;
-    color: #ee0290;
+    color: #dd0074;
 }
 
 .jumbotron {

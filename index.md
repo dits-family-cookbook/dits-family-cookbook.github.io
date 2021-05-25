@@ -43,18 +43,17 @@ layout: default
 # Main Dishes
 
 {% for page in site.pages %}
-{% if page.url contains "main-dishes"  %}
+{% if page.url contains "main-dishes" %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
-
 
 # Salads
 
 # Soups and Stews
 
 {% for page in site.pages %}
-{% if page.url contains "soups"  %}
+{% if page.url contains "soups" %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
