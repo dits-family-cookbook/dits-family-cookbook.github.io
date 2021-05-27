@@ -17,14 +17,17 @@ ol, ul {
 
 .site-title {
 	color: #eee !important;
-	font-size: 6rem !important;
+	font-size: 5rem !important;
 	font-family: 'Brush Script MT', cursive;
+	line-height: 80% !important;
 }
 
 .recipe-title {
-	font-size: 5rem;
+	font-size: 4rem;
 	font-family: 'Brush Script MT', cursive;	
 	color: #ee6002;
+	line-height: 80% !important;
+	margin-top: 2rem;
 }
 
 .content {
@@ -40,6 +43,7 @@ ol, ul {
 	color: #333;
 	margin-bottom: 1rem;
 	margin-top: 8rem;
+	line-height: 80% !important;
 }
 
 .recipe-content h1:first-of-type {
@@ -58,7 +62,7 @@ ol, ul {
 	color: #bbb;
 	margin-bottom: 1rem;
 	margin-top: 6rem;
-
+	line-height: 80% !important;
 }
 
 .content a {
@@ -69,10 +73,12 @@ ol, ul {
 	color: #eee;
 	margin-bottom: 1rem;
 	margin-top: 6rem;
+	line-height: 80% !important;	
 }
 
 .recipe-content h2 {
 	padding: 0;
 	text-align: left;
 	background-color: transparent;
+	line-height: 80% !important;	
 }
