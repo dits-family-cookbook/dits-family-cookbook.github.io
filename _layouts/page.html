@@ -12,10 +12,12 @@
   </head>
   <body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
-    <div class="container shadow p-lg-5">
-      <div class="jumbotron border"><a href="/"><h1 class="jumbotext">Dit's Recipes</h1></a></div>
-      <div class="container content p-lg-5">
-        <div class="recipe-name">{{ page.title }}</div>
+     <div class="container content px-lg-5">
+      <div class="text-center pt-5">
+        <a href="/" class="site-title">Dit's Recipes</a>
+      </div>
+      <div class="container recipe-content px-lg-5">
+        <div class="text-center recipe-title">{{ page.title }}</div>
         {{ content }}
       </div>
     </div>

@@ -1,45 +1,78 @@
 html, body {
-	background-color: #ddd;
+	margin: 0px;
+	padding: 0px;
+	background-color: #000;
 }
 
-.container {
-	background-color: #eee;
-}
-
-a {
-    text-decoration: none;
-}
-
-.recipe-name {
-	font-size: 3rem;
-	color: #ee6002;
-}
-
-.content h1 {
-    margin-top: 4rem;
-    color: #7952b3;
-    text-decoration: underline;
-}
-
-.content h2 {
-    margin-top: 1.5rem;
-    color: #dd0074;
-}
-
-.jumbotron {
-    margin-top: 1rem;
-    padding: 1rem;
-    padding-left: 2rem;
-    background-image: url('/img/header.jpeg');
-    background-size: cover;
+body {
+    background-image: url('/img/background.png');
+    background-attachment: fixed;
+  	background-position: top; 
     background-repeat: no-repeat;
 }
 
-.jumbotext {
-    color: white;    
-    font-size: 4rem;
+ol, ul {
+	line-height: 200%;
+}
+
+.site-title {
+	color: #eee !important;
+	font-size: 6rem !important;
+	font-family: 'Brush Script MT', cursive;
+}
+
+.recipe-title {
+	font-size: 5rem;
+	font-family: 'Brush Script MT', cursive;	
+	color: #ee6002;
 }
 
 .content {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    color: #ccc;
+}
+
+.content h1 {
+	font-size: 3rem;
+    text-align: center;
+	background-color: rgba(251,140,0,.8);
+	padding: 1rem;
+	color: #333;
+	margin-bottom: 1rem;
+	margin-top: 8rem;
+}
+
+.recipe-content h1:first-of-type {
+	margin-top: 4rem !important;	
+}
+
+.recipe-list h1:first-of-type {
+	margin-top: 4rem !important;	
+}
+
+.content h2 {
+	font-size: 2.5rem;
+    text-align: center;
+	background-color: rgba(194,94,0,.8);
+	padding: 1rem;
+	color: #bbb;
+	margin-bottom: 1rem;
+	margin-top: 6rem;
+
+}
+
+.content a {
+	font-size: 3rem;
+    text-decoration: none;
+    text-align: center;	    
+	padding: 1rem;
+	color: #eee;
+	margin-bottom: 1rem;
+	margin-top: 6rem;
+}
+
+.recipe-content h2 {
+	padding: 0;
+	text-align: left;
+	background-color: transparent;
 }

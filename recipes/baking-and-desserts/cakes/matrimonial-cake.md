@@ -16,18 +16,18 @@ layout: page
 
 # Directions
 
-### Filling
+## Filling
 
 1. stir dates and water over low heat until thick
 1. let cool
 
-### Crust
+## Crust
 
 1. cream together margarine and brown sugar
 1. stir in flour, soda, and salt
 1. stir in oats
 
-### Baking
+## Baking
 
 1. spread 1/2 of crust mixture in greased 13" x 19" pan
 1. pat down
