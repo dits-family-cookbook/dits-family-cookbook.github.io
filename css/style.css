@@ -18,12 +18,14 @@ ol, ul {
 .site-title {
 	color: #eee !important;
 	font-size: 5rem !important;
+	font-weight: bolder;
 	font-family: 'Brush Script MT', cursive;
 	line-height: 80% !important;
 }
 
 .recipe-title {
 	font-size: 4rem;
+	font-weight: bold;	
 	font-family: 'Brush Script MT', cursive;	
 	color: #ee6002;
 	line-height: 80% !important;
@@ -37,11 +39,12 @@ ol, ul {
 
 .content h1 {
 	font-size: 3rem;
+	font-weight: bold;	
 	font-family: 'Brush Script MT', cursive;	
+	color: #222;
     text-align: center;
 	background-color: rgba(251,140,0,.8);
-	padding: 1rem;
-	color: #333;
+	padding: 1rem;	
 	margin-bottom: 1rem;
 	margin-top: 8rem;
 	line-height: 80% !important;
@@ -58,21 +61,22 @@ ol, ul {
 .content h2 {
 	font-size: 2.5rem;
     text-align: center;
-	background-color: rgba(194,94,0,.8);
+    color: #222;
+	background-color: rgba(194,94,0,.6);
 	padding: 1rem;
-	color: #bbb;
 	margin-bottom: 1rem;
 	margin-top: 6rem;
 	line-height: 80% !important;
 }
 
 .recipe-list h2 {
+	font-weight: bold;
 	font-family: 'Brush Script MT', cursive;	
 }
 
 .content a {
-	font-family: 'Brush Script MT', cursive;
 	font-size: 3rem;
+	font-family: 'Brush Script MT', cursive;	
     text-decoration: none;
     text-align: center;	    
 	padding: 1rem;
