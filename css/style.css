@@ -37,6 +37,7 @@ ol, ul {
 
 .content h1 {
 	font-size: 3rem;
+	font-family: 'Brush Script MT', cursive;	
     text-align: center;
 	background-color: rgba(251,140,0,.8);
 	padding: 1rem;
@@ -65,7 +66,12 @@ ol, ul {
 	line-height: 80% !important;
 }
 
+.recipe-list h2 {
+	font-family: 'Brush Script MT', cursive;	
+}
+
 .content a {
+	font-family: 'Brush Script MT', cursive;
 	font-size: 3rem;
     text-decoration: none;
     text-align: center;	    
@@ -73,7 +79,7 @@ ol, ul {
 	color: #eee;
 	margin-bottom: 1rem;
 	margin-top: 6rem;
-	line-height: 80% !important;	
+	line-height: 80% !important;
 }
 
 .recipe-content h2 {
