@@ -14,7 +14,7 @@ layout: page
 * 1 beer, Kilkenny cream ale or a chocolate stout
 * 2 tablespoon chili powder
 * 1 tablespoon cumin
-* 1 tbsp farm boy hot chocolate powder or an equivalent chunk of dark chocolate
+* 1 tbsp cocoa powder
 * 1 tbsp minced garlic
 * 1 tbsp Italian seasoning, ground in mortar and pestle or simply in your palm
 * 1 cup canned corn niblets, drained
