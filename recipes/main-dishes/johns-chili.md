@@ -15,7 +15,7 @@ layout: page
 * 1 beer, Kilkenny, Guinness, or a chocolate stout
 * 1 cup canned corn niblets, drained
 
-Dry:
+Dry Spices:
 
 * 2 tablespoon chili powder
 * 1 tablespoon cumin
