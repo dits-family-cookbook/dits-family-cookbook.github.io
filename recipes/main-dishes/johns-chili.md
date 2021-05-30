@@ -56,4 +56,5 @@ Toppings:
 1. Slowly add the beer to the pot, deglazing as you go
 1. Add all remaining ingredients except the chipotle/ancho peppers to the pot
 1. In a blender, blend 1 cup water with 1 or more chipotle peppers and some of the adobo sauce.  Also blend the ancho pepper, if using.  Add to pot.
-1. Simmer, covered, on low for 1 to 2 hours, stirring occasionally, let cool, and refrigerate overnight
+1. Reduce heat to low, simmer, covered, for 1 to 2 hours, stirring occasionally.
+1. Let cool and refrigerate overnight
