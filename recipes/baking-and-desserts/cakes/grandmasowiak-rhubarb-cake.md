@@ -7,8 +7,9 @@ Optional description or text here.
 
 # Ingredients
 
+Cream together:
 * 1/2 cup margarine
-* 1 tbsp that
+* 1 1/2 cups brown sugar
 
 # Directions
 
