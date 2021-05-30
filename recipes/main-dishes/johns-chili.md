@@ -25,6 +25,8 @@ layout: page
 * dash of cinnamon
 * 2 or 3 tbsp better than bouillon
 * 1 can chipotle in adobo
+* 1/2 dried ancho chile pepper, re-hydrated in bowl of boiling water for 30 mins (optional, adds additional heat and depth)
+
 
 Toppings:
 
@@ -43,7 +45,8 @@ Toppings:
 1. Start frying the sausage in the frying pan, removing the casing when convenient, and add to pot when done
 1. Fry garlic in frying pan and add to pot
 1. Add all remaining ingredient *except* the bouillon and the chipotle
-1. In a blender, blend 1 C water with bouillon and 1 or more chipotle peppers with some of the adobo sauce (this adds heat, so adjust to taste) and add to pot
+1. In a blender, blend 1 C water with bouillon and 1 or more chipotle peppers with some of the adobo sauce, and ancho pepper (if using); this adds heat, so adjust to taste
+1. Add mixture from blender to pot
 1. Simmer on low for 1 to 2 hours, stirring occasionally
 1. Ladle into bowls and top with cheese and sour creme
 1. Optionally, serve with corn bread
