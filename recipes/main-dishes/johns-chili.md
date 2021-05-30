@@ -6,7 +6,7 @@ layout: page
 # Ingredients
 
 * 500g ground beef or 4 veggie burger patties (beyond meat, impossible, or costco "plant based protein burger")
-* 3 or 4 x Italian sausage (beyond meat for vegetarians)
+* 4 x Italian sausage (beyond meat for vegetarians)
 * 2 small onions, chopped
 * 1 tbsp minced garlic
 * 4 stalks celery, chopped
