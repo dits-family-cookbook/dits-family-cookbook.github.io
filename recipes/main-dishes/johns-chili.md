@@ -5,13 +5,15 @@ layout: page
 
 # Ingredients
 
-* 500g ground beef or 4 veggie burger patties
-* 3 or 4 x Italian sausage
+* 500g ground beef or 4 veggie burger patties (beyond meat, impossible, or costco "plant based protein burger")
+* 3 or 4 x Italian sausage (beyond meat for vegetarians)
+* 1 can chipotle in adobo
+* 1 small dried ancho chile pepper, seeded, and re-hydrated in bowl of boiling water for 30 mins (optional, adds additional heat and depth)
 * 2 small onions, chopped
 * 4 stalks celery, chopped
 * 1 can kidney beans, rinsed and drained, OR 3/4 C dry, pressure cook 45 mins with 3 C salted water
 * 2 cans Campbell's Condensed Tomato Soup
-* 1 beer, Kilkenny cream ale or a chocolate stout
+* 1 beer, Kilkenny, Guinness, or a chocolate stout
 * 2 tablespoon chili powder
 * 1 tablespoon cumin
 * 1 tbsp cocoa powder
@@ -21,11 +23,11 @@ layout: page
 * 1/4 cup bbq sauce (Bull's Eye Hickory Smoked)
 * 1 tbsp lime juice
 * 1 tbsp Worcestershire sauce
-* dash of salt & black pepper
+* 1 tsp soy sauce
+* 1 tsp marmite
+* dash of black pepper
 * dash of cinnamon
 * 2 or 3 tbsp better than bouillon
-* 1 can chipotle in adobo
-* 1/2 dried ancho chile pepper, re-hydrated in bowl of boiling water for 30 mins (optional, adds additional heat and depth)
 
 
 Toppings:
@@ -44,9 +46,8 @@ Toppings:
 1. Add the ground beef into the pot once cooked thoroughly
 1. Start frying the sausage in the frying pan, removing the casing when convenient, and add to pot when done
 1. Fry garlic in frying pan and add to pot
-1. Add all remaining ingredient *except* the bouillon and the chipotle
-1. In a blender, blend 1 C water with bouillon and 1 or more chipotle peppers with some of the adobo sauce, and ancho pepper (if using); this adds heat, so adjust to taste
+1. In a blender, blend 1 cup water with 1 or more chipotle peppers and some of the adobo sauce.  Also blend the ancho pepper, if using.
 1. Add mixture from blender to pot
-1. Simmer on low for 1 to 2 hours, stirring occasionally
-1. Ladle into bowls and top with cheese and sour creme
-1. Optionally, serve with corn bread
+1. Empty beer into blender to collect any remaining pepper mixture, then add to pot
+1. Add remaining ingredients to pot
+1. Simmer on low for 1 to 2 hours, stirring occasionally, let cool, and refrigerate overnight
