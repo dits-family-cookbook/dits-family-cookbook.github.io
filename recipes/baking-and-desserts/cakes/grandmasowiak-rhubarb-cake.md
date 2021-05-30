@@ -1,5 +1,5 @@
 ---
-title: grand
+title: grandma sowiak 
 layout: page
 ---
 
@@ -7,7 +7,7 @@ Optional description or text here.
 
 # Ingredients
 
-* 1 cup this
+* 1/2 cup margarine
 * 1 tbsp that
 
 # Directions
