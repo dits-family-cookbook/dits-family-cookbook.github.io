@@ -13,7 +13,7 @@ layout: page
 * 1 can kidney beans, rinsed and drained, OR 3/4 C dry, pressure cook 45 mins with 3 C salted water
 * 2 cans Campbell's Condensed Tomato Soup
 * 1 beer, Kilkenny, Guinness, or a chocolate stout
-* 1 cup canned corn niblets, drained
+* 1 cup canned corn niblets, drained (or from frozen)
 
 Dry Spices:
 
