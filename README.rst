@@ -9,6 +9,8 @@ Recipe Template::
   layout: page
   ---
 
+  ![](/img/optional-image.jpeg)
+
   Optional description or text here.
 
   # Ingredients
