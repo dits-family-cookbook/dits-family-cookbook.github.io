@@ -52,7 +52,7 @@ Toppings:
 1. Start frying the ground beef and sausage in separate pan(s).  Can be added to the pot any time after the beer is added.
 1. At the same time, in a large pot or dutch oven, fry the onions with some oil or butter until just starting to brown
 1. Make room and fry the minced garlic in the pot with the onions for a minute or so
-1. Add all the dry ingredients fry for 1 or 2 minutes, stirring continuously
+1. Add all the dry ingredients and fry for 1 or 2 minutes, stirring continuously
 1. Slowly add the beer to the pot, deglazing as you go
 1. Add all remaining ingredients except the chipotle/ancho peppers to the pot
 1. In a blender, blend 1 cup water with 1 or more chipotle peppers and some of the adobo sauce.  Also blend the ancho pepper, if using.  Add to pot.
