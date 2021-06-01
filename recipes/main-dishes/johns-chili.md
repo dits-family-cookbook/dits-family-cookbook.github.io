@@ -49,7 +49,7 @@ Toppings:
 # Directions
 
 1. For best results, make this the day before and refrigerate over night, then reheat and serve
-1. Start frying the ground beef and sausage in separate pan(s).  Can be added to the pot any time after the beer is added.
+1. Start frying the ground beef and sausage in separate pan(s).  Once cooked thoroughly, can be added to the pot any time after the beer is added.
 1. At the same time, in a large pot or dutch oven, fry the onions with some oil or butter until just starting to brown
 1. Make room and fry the minced garlic in the pot with the onions for a minute or so
 1. Add all the dry ingredients and fry for 1 or 2 minutes, stirring continuously
