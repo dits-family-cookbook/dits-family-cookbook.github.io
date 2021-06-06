@@ -26,5 +26,5 @@ Fold in: 2 cups chopped rhubarb (approximately 4 good sized stalks)
 
 # Directions
 
-1.  Spread in buttered 8" x 11" pan and sprinkle with 2 tablesppons white sugar mixed with 2 teaspoons cinnamon.
+1.  Spread in buttered 8" x 11" pan and sprinkle with 2 tablespoons white sugar mixed with 2 teaspoons cinnamon.
 1.  Bake at 350 degrees F. for 40-45 minutes.

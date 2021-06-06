@@ -14,7 +14,7 @@ layout: page
 * 2 3/4 cups all purpose flour
 * 2 teaspoons cream of tartar
 * 1 teaspoon salt
-* 1 teasoon soda
+* 1 teaspoon soda
 
 
 # Directions
