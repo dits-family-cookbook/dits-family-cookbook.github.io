@@ -22,4 +22,4 @@ layout: page
 1. Stir in peanut butter.
 1. Mix dry ingredients together and stir into peanut butter mixture.
 1. Roll into balls and flatten slightly with a fork.
-1. Bake 375 degrre F. for 12 - 15 minutes.
+1. Bake 375 degree F. for 12 - 15 minutes.

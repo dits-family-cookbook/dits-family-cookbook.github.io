@@ -22,5 +22,5 @@ layout: page
 1.  Cream margarine and sugar.
 1.  Add eggs and vanilla.
 1.  Stir in flour and baking powder. Fold in Nuts and dates.
-1.  Drop by teaspoonsfull onto ungreased pans.
+1.  Drop by teaspoonsful onto ungreased pans.
 1.  Bake at 350 degrees F. for 10 to 12 minutes.
