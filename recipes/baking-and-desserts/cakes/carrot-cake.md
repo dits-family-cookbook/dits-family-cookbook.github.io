@@ -13,7 +13,7 @@ layout: page
 * 1 teaspoon cinnamon
 * 2 teaspoons baking soda
 * 1 teaspoon salt
-* 2 cups unsweetened, shred, coconut
+* 2 cups unsweetened, shredded, coconut
 * 1 - 10 fluid ounce crushed pineapple and juice
 * 1 cup chopped nuts (walnuts or pecans)
 * 2 cups grated carrots
