@@ -1,5 +1,6 @@
 ---
-Carrot Cake
+title: Carrot Cake
+layout: page
 ---
 
 # Ingredients
