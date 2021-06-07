@@ -12,7 +12,7 @@ Carrot Cake
 * 1 teaspoon cinnamon
 * 2 teaspoons baking soda
 * 1 teaspoon salt
-* 2 cups cocoanut
+* 2 cups unsweetened, shred, cocoanut
 * 1 - 10 fluid ounce crushed pineapple and juice
 * 1 cup chopped nuts (walnuts or peacans)
 * 2 cups grated carrots
