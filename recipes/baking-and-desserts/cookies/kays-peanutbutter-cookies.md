@@ -1,5 +1,6 @@
 ---
-Kay's Peanut Butter Cookies
+title: Kay's Peanut Butter Cookies
+layout: page
 ---
 
 # Ingredients
