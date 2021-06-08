@@ -6,7 +6,7 @@ layout: page
 
 # Ingredients
 
-* 1/2 cups plus 2 tablespoons all pirpose flour
+* 1/2 cups plus 2 tablespoons all purpose flour
 * 1 cup white sugar
 * 1 teaspoon baking soda
 * 2 teaspoons baking powder
