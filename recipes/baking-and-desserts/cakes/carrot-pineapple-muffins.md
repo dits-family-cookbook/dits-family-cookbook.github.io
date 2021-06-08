@@ -11,7 +11,7 @@ layout: page
 * 2 teaspoons baking powder
 * 1 teaspoon cinnamon
 * 1 teaspoon vanilla
-* 1/2 cuo vegetable oil
+* 1/2 cup vegetable oil
 * 2 eggs, beaten
 * 1 cup grated carrots
 * 1 cup crushed pineapple, drained
