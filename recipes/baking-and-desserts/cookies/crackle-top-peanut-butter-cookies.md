@@ -3,7 +3,7 @@ title: Crackle Top Peanut Butter Cookies
 layout: page
 ---
 
-#Ingredients
+# Ingredients
 
 * 3/4 cup margarine
 * 1/2 cup white sugar

@@ -1,7 +1,6 @@
 ---
 title: Carrot Pineapple Muffins
 layout: page
-
 ---
 
 # Ingredients
