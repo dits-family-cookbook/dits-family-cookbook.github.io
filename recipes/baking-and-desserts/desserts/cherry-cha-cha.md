@@ -1,7 +1,6 @@
 ---
 title: Cherry Cha Cha
 layout: page
-
 ---
 
 # Ingredients
