@@ -7,7 +7,7 @@ layout: default
 ## Bars
 
 {% for page in site.pages %}
-{% if page.url contains "baking" and page.url contains "bars" and page.title != blank %}
+{% if page.url contains "baking" and page.url contains "bars" and page.title %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
@@ -16,7 +16,7 @@ layout: default
 ## Cakes
 
 {% for page in site.pages %}
-{% if page.url contains "baking" and page.url contains "cakes" and page.title != blank %}
+{% if page.url contains "baking" and page.url contains "cakes" and page.title %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
@@ -24,7 +24,7 @@ layout: default
 ## Cookies
 
 {% for page in site.pages %}
-{% if page.url contains "baking" and page.url contains "cookies" and page.title != blank %}
+{% if page.url contains "baking" and page.url contains "cookies" and page.title %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
@@ -33,7 +33,7 @@ layout: default
 ## Desserts
 
 {% for page in site.pages %}
-{% if page.url contains "baking" and page.url contains "/desserts" and page.title != blank %}
+{% if page.url contains "baking" and page.url contains "/desserts" and page.title %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
@@ -41,7 +41,7 @@ layout: default
 # Breads
 
 {% for page in site.pages %}
-{% if page.url contains "breads" and page.title != blank %}
+{% if page.url contains "breads" and page.title %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
@@ -50,7 +50,7 @@ layout: default
 # Canning
 
 {% for page in site.pages %}
-{% if page.url contains "canning" and page.title != blank %}
+{% if page.url contains "canning" and page.title %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
@@ -60,7 +60,7 @@ layout: default
 # Main Dishes
 
 {% for page in site.pages %}
-{% if page.url contains "main-dishes" and page.title != blank %}
+{% if page.url contains "main-dishes" and page.title %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
@@ -70,7 +70,7 @@ layout: default
 # Soups and Stews
 
 {% for page in site.pages %}
-{% if page.url contains "soups" and page.title != blank %}
+{% if page.url contains "soups" and page.title %}
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
