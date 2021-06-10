@@ -40,6 +40,23 @@ layout: default
 
 # Breads
 
+{% for page in site.pages %}
+{% if page.url contains "breads" and page.title %}
+[{{ page.title }}]({{ page.url }})
+{% endif %}
+{% endfor %}
+
+
+# Canning
+
+{% for page in site.pages %}
+{% if page.url contains "canning" and page.title %}
+[{{ page.title }}]({{ page.url }})
+{% endif %}
+{% endfor %}
+
+
+
 # Main Dishes
 
 {% for page in site.pages %}
