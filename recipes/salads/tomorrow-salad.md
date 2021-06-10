@@ -20,3 +20,4 @@ layout: page
 1. Drain the fruit and mix it together.
 1. Fold the fruit and marshmallows into the whipped cream mixture.
 1. Refrigerate.
+
