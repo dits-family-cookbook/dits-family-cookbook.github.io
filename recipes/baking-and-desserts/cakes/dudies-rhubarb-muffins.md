@@ -1,10 +1,9 @@
-
 ---
 title: Dudie's Rhubarb Muffins
 layout: page
 ---
 
-#Ingredients
+# Ingredients
 
 * 3 eggs
 * 1 1/2 cups brown sugar
