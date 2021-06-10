@@ -1,8 +1,7 @@
 ---
-title: Lemon Lime Jello Salad
+title: Lemon Lime Jellow Salad
 layout: page
 ---
-
 
 # Ingredients
 
