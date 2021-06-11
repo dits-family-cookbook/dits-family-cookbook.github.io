@@ -67,6 +67,14 @@ layout: default
 
 # Salads
 
+{% for page in site.pages %}
+{% if page.url contains "salads" and page.title %}
+[{{ page.title }}]({{ page.url }})
+{% endif %}
+{% endfor %}
+
+
+
 # Soups and Stews
 
 {% for page in site.pages %}
