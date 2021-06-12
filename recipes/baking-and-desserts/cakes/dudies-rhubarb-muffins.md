@@ -31,6 +31,6 @@ Topping:
 * 1/4 cup white sugar
 * 1/4 cup chopped butter
 
-Mix togther like pastry. 
+Mix together like pastry. 
 
 Makes 18 to 24 muffins. Bake at 350 degrees F. for 25 to 30 minutes.

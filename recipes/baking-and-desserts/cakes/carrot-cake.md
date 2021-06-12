@@ -17,6 +17,7 @@ layout: page
 * 1 - 10 fluid ounce crushed pineapple and juice
 * 1 cup chopped nuts (walnuts or pecans)
 * 2 cups grated carrots
+* frosting ingredients & instructions follow directions
 
 
 # Directions
