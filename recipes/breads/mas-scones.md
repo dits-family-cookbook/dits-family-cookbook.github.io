@@ -26,5 +26,5 @@ layout: page
 1. Mix together the egg, the sour cream and the milk.
 1. Add to the flour/fruit mixture to make a soft dough. You may need more milk - up to 1 cup in total.
 1. Pat out on board to about 1" thick. Spread with a beaten egg white and sprinkle with sugar.
-1. Cut into oblongs and place on baking sheets lined with parchment paper.
+1. Cut into triangles and place on baking sheets lined with parchment paper.
 1. Bake 425 degrees F. for 15 minutes.
