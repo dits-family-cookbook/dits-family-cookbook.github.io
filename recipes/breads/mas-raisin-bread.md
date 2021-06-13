@@ -1,6 +1,6 @@
 ---
-title:: Ma's Raisin Bread
-layout:page
+title: Ma's Raisin Bread
+layout: page
 ---
 
 # Ingredients
