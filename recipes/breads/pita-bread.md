@@ -1,1 +1,25 @@
+---
+title: Pita Bread
+layout: page
+---
+
+# Ingredients
+
+* 1 tablespoon yeast
+* 1/2 cup warm water
+* pinch of white sugar
+* 1 cup warm water
+* 2 tablespoons oil
+* 2 teaspoons salt
+* 2 1/3 cups all purpose flour
+* 2/3 cup cake and pastry flour
+
+# Directions
+
+1. Dissolve yeast in 1/2 cup warm water to which the pinch of sugar has been added. Let sit for 10 minutes.
+1. Add the other ingredients to the yeast mixture in order with enough flour to make a soft dough.
+1. Let rise for around 1 hour. Punch down.
+1. Cut off pieces and roll into saucer shapes - thin and about 5 inches across. Let rest for 20 minutes under plastic wrap - so they do not dry out.
+1. Preheat oven and pan to 500 degrees F.
+1. Open oven door quickly and place a couple pitas on the pan at a time. Bake for 3 - 5 minutes until they puff up and turn golden.
 
