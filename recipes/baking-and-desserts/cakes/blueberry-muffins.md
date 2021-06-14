@@ -5,7 +5,7 @@ layout: page
 
 # Ingredients
 
-* 2 all purpose flour
+* 2 cups all purpose flour
 * 2 teaspoons baking powder
 * 3/4 teaspoon salt
 * 1/2 cup butter or margarine
