@@ -50,6 +50,3 @@ layout: page
 1. Spread second half of the Cool Whip onto the set pudding layer.
 1. Sprinkle with toasted almonds.
 1. Refrigerate.
-* 2 packages instant pistachio pudding mix
-
-# Thi
