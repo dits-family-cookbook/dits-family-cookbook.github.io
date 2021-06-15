@@ -33,6 +33,23 @@ layout: page
 # Third Layer Ingredients
  
 * 2 1/2 cups milk
+* 2 small packages pistachio instant pudding mix
+
+# Third Layer Directions
+
+1. Mix the pudding powders with the milk and stir with a whisk.
+1. Pour onto cream cheese layer and let set.
+
+# Fourth Layer Ingredients
+
+* second half of the Cool Whip
+* 1/4 cup chopped almonds, toasted
+
+# Fourth Layer Directions
+
+1. Spread second half of the Cool Whip onto the set pudding layer.
+1. Sprinkle with toasted almonds.
+1. Refrigerate.
 * 2 packages instant pistachio pudding mix
 
 # Thi
