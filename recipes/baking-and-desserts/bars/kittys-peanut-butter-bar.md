@@ -1,5 +1,5 @@
 ---
-title: Kitty's Peanut Buttter Bar
+title: Kitty's Peanut Butter Bar
 layout: page
 ---
 
