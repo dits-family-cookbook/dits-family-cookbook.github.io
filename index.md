@@ -47,6 +47,15 @@ layout: default
 {% endfor %}
 
 
+# Candies
+
+{% for page in site.pages %}
+{% if page.url contains "candies" and page.title %}
+[{{ page.title }}]({{ page.url }})
+{% endif %}
+{% endfor %}
+
+
 # Canning
 
 {% for page in site.pages %}
@@ -64,6 +73,16 @@ layout: default
 [{{ page.title }}]({{ page.url }})
 {% endif %}
 {% endfor %}
+
+# Miscellaneous
+
+{% for page in site.pages %}
+{% if page.url contains "miscellaneous" and page.title %}
+[{{ page.title }}]({{ page.url }})
+{% endif %}
+{% endfor %}
+
+
 
 # Salads
 
