@@ -18,8 +18,8 @@ layout: page
 # Directions
 
 1. Heat sugar, honey, water, salt and nutmeg in small pot on medium heat.
-1. Stur in seeds.
+1. Stir in seeds.
 1. Cook until mixture turns amber in colour - 5 to 10 minutes (300 degrees F.). Remove from heat.
 1. Stir in vanilla and butter. Once butter melts stir in soda.
-1. Pout onto buttered pan and spread with metal spreader until very thin. It is very hot! I used buttered parchment paper and a tea towel to press it out.
+1. Pour onto buttered pan and spread with metal spreader until very thin. It is very hot! I used buttered parchment paper and a tea towel to press it out.
 1. When cool break into pieces.

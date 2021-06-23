@@ -15,7 +15,7 @@ layout: page
 
 # Directions
 
-1. Melt butterscotch chips, butter (or margarine) in a pot. Stir in peanut butter and a small handfull of chocolate chips.
+1. Melt butterscotch chips, butter (or margarine) in a pot. Stir in peanut butter and a small handful of chocolate chips.
 1. Let cool slightly.
 1. Add coconut, vanilla and marshmallows.
 1. Spread in buttered 9"x9" pan.
