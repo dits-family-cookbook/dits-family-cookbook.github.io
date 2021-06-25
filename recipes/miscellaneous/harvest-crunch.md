@@ -1,1 +1,31 @@
+---
+title: Harvest Crunch
+layout: page
+---
 
+# Ingredients
+
+* 2 cups rolled oats
+* 1 cup chopped walnuts
+* 3/4 cup sunflower seeds
+* 1/2 cup slivered almonds
+* 1/2 cup chopped pecans
+* 1/2 cup grape nuts cereal
+* 1/3 cup sesame seeds
+* 1 1/2 cups coconut
+* 3/4 cup dates chopped small
+* 2/3 cup vegetable oil
+* 1 cup brown sugar
+* 2/3 cup water
+* 1/2 cup honey
+* 1 teaspoon cinnamon
+* 1/2 teaspoon nutmeg
+* 2 teaspoons vanilla
+
+# Directions
+
+1. Mix oats, walnuts, sunflower seeds, almonds, pecans, grape nut cereal, sesame seeds and coconut in a large bowl.
+1. In a saucepan simmer brown sugar, oil, water, honey, cinnamon and nutmeg until sugar is dissolved - about 10 minutes. Do not boil. Add vanilla.
+1. Pour over dry ingredients in bowl and stir until well coated.
+1. Spread out on cookie sheet and bake in 300 degree F. oven for 25 to 30 minutes.
+1. Add the dates after it is taken out of the oven.
