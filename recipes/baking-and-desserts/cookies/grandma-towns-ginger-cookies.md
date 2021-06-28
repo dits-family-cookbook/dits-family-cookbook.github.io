@@ -1,5 +1,5 @@
 ---
-title: Grandma Town's Ginger Cookie
+title: Grandma Town's Ginger Cookies
 layout: page
 ---
 
