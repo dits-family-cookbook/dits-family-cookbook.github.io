@@ -1,6 +1,6 @@
 ---
 title: Grandma Sowiak's Banana Muffins
-layout
+layout: page
 ---
 
 # Ingredients
