@@ -12,7 +12,7 @@ layout: page
 * 1/2 cup shortening
 * 1 cup white sugar
 * 2 eggs
-* 1 teaspoon vanila
+* 1 teaspoon vanilla
 * 1 cup sour cream
 * 1/2 cup brown sugar
 * 1 teaspoon cinnamon

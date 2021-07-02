@@ -20,4 +20,4 @@ layout: page
 
 1. Combine all ingredients in large pot.
 1. Simmer until thick - uncovered - about 1 hour. Stir often to make sure it does not burn.
-1. Spoon into hot sterelized jars and process in hot water bath for 10 minutes.
+1. Spoon into hot sterilized jars and process in hot water bath for 10 minutes.
