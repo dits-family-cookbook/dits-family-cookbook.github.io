@@ -1,11 +1,11 @@
 ---
-title: Zuchinni Salsa
+title: Zucchini Salsa
 layout: page
 ---
 
 # Ingredients
 
-* 10 cups shredded zuchinni - not peeled but seeds removed
+* 10 cups shredded zucchini - not peeled but seeds removed
 * 4 large onions chopped fine
 * 2 red peppers chopped
 * 2 green peppers chopped
@@ -25,5 +25,5 @@ layout: page
 
 # Directions
 
-1. Day One: Combine zuchinni, onions, peppers and pickling salt in large enamel or plastic bowl. Cover. Let sit over night.
-1. Day Two: Rinse. Drain well. Put into large cooking pot. Add remining ingredients. Bring to a boil and let simmer for 15 minutes. Pour into sterelized jars and process for 15 minutes in hot water bath. Makes 8 - 2 cup sealers.
+1. Day One: Combine zucchini, onions, peppers and pickling salt in large enamel or plastic bowl. Cover. Let sit over night.
+1. Day Two: Rinse. Drain well. Put into large cooking pot. Add remaining ingredients. Bring to a boil and let simmer for 15 minutes. Pour into sterilized jars and process for 15 minutes in hot water bath. Makes 8 - 2 cup sealers.

@@ -13,7 +13,7 @@ layout: page
 * 5 cups white sugar
 * 2 tablespoons mustard seed
 * 1 1/2 teaspoons celery seed
-* 1 teaspoon tumeric
+* 1 teaspoon turmeric
 * 1 teaspoon whole cloves
 
 # Directions
@@ -25,4 +25,4 @@ layout: page
 1. Drain and rinse.
 1. Boil vinegar, sugar and spices for 5 minutes.
 1. Add cucumbers and onions. Bring just to boil but do not boil.
-1. Pack into sterelized sealers and seal.
+1. Pack into sterilized sealers and seal.

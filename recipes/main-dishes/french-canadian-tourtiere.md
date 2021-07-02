@@ -43,7 +43,7 @@ layout: page
 1. Combine all ingredients except bread crumbs, egg and 1 tablespoon water and cook, stirring often in large pot until meat is grey and hot.
 1. Cover and simmer for 30 minutes.
 1. Remove from heat. Cool, then stir in bread crumbs.
-1. Pour well cooled filling intl pastry lined baking dishes and cover with pastry tops. Make slits in tops to let out steam.
-1. Seal and crimp edges. Brush with egg beaten ith 1 tablespoon water.
+1. Pour well cooled filling into pastry lined baking dishes and cover with pastry tops. Make slits in tops to let out steam.
+1. Seal and crimp edges. Brush with egg beaten with 1 tablespoon water.
 1. Bake at 400 degree F. for 40 minutes or until golden and filling is bubbling through slits.
 1. Makes about 24 muffin sized tourtieres for Christmas etc. They freeze well.
