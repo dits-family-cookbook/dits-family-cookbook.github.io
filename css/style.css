@@ -51,8 +51,13 @@ ol, ul {
 }
 
 .recipe-content h1:first-of-type {
-	margin-top: 4rem !important;	
+	margin-top: 4rem !important;
 }
+
+.recipe-content h2 {
+	color: rgb(251,140,0) !important;
+}
+
 
 .recipe-list h1:first-of-type {
 	margin-top: 4rem !important;	
