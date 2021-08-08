@@ -9,7 +9,7 @@ body {
     background-attachment: fixed;
   	background-position: top; 
     background-repeat: no-repeat;
-    line-height: 2;
+    line-height: 1.1;
 }
 
 ol, ul {
