@@ -9,6 +9,7 @@ body {
     background-attachment: fixed;
   	background-position: top; 
     background-repeat: no-repeat;
+    line-height: 130%;
 }
 
 ol, ul {
@@ -24,7 +25,6 @@ hr {
 	font-size: 5rem !important;
 	font-weight: bolder;
 	font-family: 'Brush Script MT', cursive;
-	line-height: 80% !important;
 }
 
 .recipe-title {
@@ -32,7 +32,6 @@ hr {
 	font-weight: bold;	
 	font-family: 'Brush Script MT', cursive;	
 	color: #ee6002;
-	line-height: 80% !important;
 	margin-top: 2rem;
 }
 
@@ -51,7 +50,6 @@ hr {
 	padding: 1rem;	
 	margin-bottom: 1rem;
 	margin-top: 8rem;
-	line-height: 80% !important;
 }
 
 .recipe-content h1:first-of-type {
@@ -75,7 +73,6 @@ hr {
 	padding: 1rem;
 	margin-bottom: 1rem;
 	margin-top: 6rem;
-	line-height: 80% !important;
 }
 
 .recipe-list h2 {
@@ -92,14 +89,12 @@ hr {
 	color: #eee;
 	margin-bottom: 1rem;
 	margin-top: 6rem;
-	line-height: 80% !important;
 }
 
 .recipe-content h2 {
 	padding: 0;
 	text-align: left;
 	background-color: transparent;
-	line-height: 80% !important;	
 }
 
 .recipe-content img {
