@@ -1,5 +1,5 @@
 ---
-title: My New Recipe
+title: Grandma Sowiak's Zucchini Chocolate Cake
 layout: page
 ---
 
