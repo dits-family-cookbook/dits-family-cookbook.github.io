@@ -37,5 +37,5 @@ layout: page
 1.  Secure normal lid and select pressure cook for 20 mins.  Allow pressure to release naturally.
 1.  While the beans are cooking, lightly fry the bacon (or beyond meat sausage) in a separate frying pan.
 1.  Once the pressure valve has unlocked, add all remaining ingredients.
-1.  Cover with glass lid and press slow cook until High temp is selected.
+1.  Cover with glass lid and press "Slow Cook" until High temp is selected.
 1.  Slow cook for 2 or 3 hours, stirring occasionally.
