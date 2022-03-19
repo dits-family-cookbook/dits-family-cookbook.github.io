@@ -6,17 +6,17 @@ layout: page
 
 # Ingredients
 
-1. 1 1/2 cups dried white beans
-1. 3 cups cold water
-1. 2 1/2 teaspoons soya sauce
-1. 4 slices bacon chopped
-1. 1/4 cup chopped onion
-1. 1 can (14 ounces) pineapple tidbits and juice
-1. 1/4 teaspoon garlic salt
-1. 1 can (10 ounces) tomato soup
-1. 1 tablespoon soya sauce
-1. 2 tablespoons molasses
-1. 2 tablespoons brown sugar
+* 1 1/2 cups dried white beans
+* 3 cups cold water
+* 2 1/2 teaspoons soya sauce
+* 4 slices bacon chopped
+* 1/4 cup chopped onion
+* 1 can (14 ounces) pineapple tidbits and juice
+* 1/4 teaspoon garlic salt
+* 1 can (10 ounces) tomato soup
+* 1 tablespoon soya sauce
+* 2 tablespoons molasses
+* 2 tablespoons brown sugar
 
 # Directions
 
