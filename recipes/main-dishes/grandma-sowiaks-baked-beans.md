@@ -3,7 +3,6 @@ title: Grandma Sowiak's Baked Beans
 layout: page
 ---
 
-From an old Ukrainian recipe book that belonged to Grandma Sowiak.
 
 # Ingredients
 
