@@ -6,7 +6,7 @@ layout: page
 
 # Ingredients
 
-* 1 1/2 cups dried white beans
+* 1 1/2 cups dried white beans (navy)
 * 3 cups cold water
 * 2 1/2 teaspoons soya sauce
 * 4 slices bacon chopped
