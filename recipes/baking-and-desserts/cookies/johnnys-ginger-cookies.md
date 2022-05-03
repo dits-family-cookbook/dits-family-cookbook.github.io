@@ -20,9 +20,11 @@ layout: page
 
 # Directions
 
+1. Original recipe from allrecipes.com
 1. Sift dry ingredients together.
-1. Cream margarine and the 1 cup white sugar together until light. Beat in egg. Stir in water and molasses.
+1. Cream margarine and the 1 cup white sugar together until light and fluffy.
+1. Beat in egg. Stir in water and molasses.
 1. Stir dry ingredients into the creamed mixture.
 1. Shape into walnut sized balls and roll in sugar.
 1. Place 2 inches apart on ungreased cookie sheets and flatten slightly.
-1. Bake at 350 degrees F. for 8 to 10 minutes.
+1. Bake at 350 F for 10 to 12 minutes.
