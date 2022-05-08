@@ -18,6 +18,7 @@ layout: page
 Dry Spices:
 
 * 2 tablespoon chili powder
+* 1 pkg Goya Sazon
 * 1 tablespoon cumin
 * 1 tbsp cocoa powder
 * 1 tbsp Italian seasoning, ground in mortar and pestle or simply in your palm
