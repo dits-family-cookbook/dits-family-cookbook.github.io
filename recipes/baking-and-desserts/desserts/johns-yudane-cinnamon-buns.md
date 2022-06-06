@@ -63,9 +63,9 @@ layout: page
 - after 1 hr, remove from oven and place dough on counter
 - punch the dough down
 - roll out to a rectangle approximately 14 x 22 inches.  Tip - to get a nice rectangle shape, roll to a rough rectangle, then fold in thirds so the long end shifts 90 degrees, then roll out in this new orientation
-- lightly butter, leaving 1/2 inch on one side 
+- lightly butter, leaving 1 inch unbuttered on one side 
 - might the brown sugar and cinnamon  in a bowl, then sprinkle over the butter
-- roll the dough (from the opposite end of the 1/2 inch non-buttered side) into a log (so it ends up as long as the longest side of the rectangle).  Don't roll too tight, or the centers will pop out while baking.
+- roll the dough (from the opposite end of the 1 inch unbuttered side) into a log (so it ends up as long as the longest side of the rectangle).  Don't roll too tight, or the centers will pop out while baking.
 - use a ruler or tape measure and make marks every 2 inches along the roll (not as big of a pain as it sounds)
 - using dental floss, slide the floss under the roll, then cross on top and pull tight to cut the roll into individual buns
 - place the buns on a parchment paper covered baking sheet.
