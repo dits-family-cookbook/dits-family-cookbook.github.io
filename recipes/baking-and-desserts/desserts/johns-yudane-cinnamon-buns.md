@@ -44,7 +44,7 @@ layout: page
 - prepare the yudane the night before
 - add the 200 g flour to a medium sized bowl
 - gently bring milk to a simmer in a small pot.  Use enough milk to be sure there will be 200 g to add to the flour.  Consider using about twice the amount, then make a nice milk and honey drink with whatever is left :-)
-- once simmering, immediately add the milk to the flour.  Stir just enough until no dry flour remains
+- once simmering, immediately measure the 200 g and then add it to the flour.  Stir quickly, just enough until no dry flour remains
 - immediately cover in plastic wrap
 - let cool, then refrigerate overnight.
 
