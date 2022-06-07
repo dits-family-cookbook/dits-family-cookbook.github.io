@@ -72,7 +72,7 @@ layout: page
 - pinch the "tails" a bit to keep the rolls from unravelling.  Buns can also be place with the tails butted together.
 - cover with plastic wrap (or whatever your preferred rising covering is) and place in the oven (with light on) for another hour
 - remove buns from oven
-- pre-heat oven to 375 C with tray on lower 1/3 rack position
+- pre-heat oven to 375 F with tray on lower 1/3 rack position
 - bake for about 18 minutes
 - remove from oven, let stand 15 minutes
 - while cooling, mix icing ingredients together
