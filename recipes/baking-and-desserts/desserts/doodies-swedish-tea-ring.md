@@ -10,7 +10,7 @@ image: doodies-swedish-tea-ring.jpeg
 
 * 1 Tbsp yeast
 * 1 tsp white sugar
-* 1 C scalded mil
+* 1 C scalded milk
 * 1/4 C white sugar
 * 3/4 tsp salt
 * 6 Tbsp shortening
