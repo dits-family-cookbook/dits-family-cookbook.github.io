@@ -36,7 +36,7 @@ Glaze:
 1. Let rise until very light.
 1. Then add:
 	* egg, and
-	* remaining 1 3/4 C flour
+	* an additional 1 3/4 C flour
 1. Mix well and let rise.
 1. Roll to 1/2 inch thick, brush with melted butter and sprinkle with brown sugar and nuts
 1. Roll up as for cinnamon buns but then join the two ends together to form a ring on a greased cookie sheet.
