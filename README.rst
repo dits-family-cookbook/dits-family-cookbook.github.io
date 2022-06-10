@@ -7,10 +7,9 @@ Recipe Template::
   ---
   title: My New Recipe
   layout: page
+  image: optional-image.jpeg (place this file in the img directory)
   ---
-
-  ![](/img/optional-image.jpeg)
-
+  
   Optional description or text here.
 
   # Ingredients

@@ -1,7 +1,10 @@
 ---
 title: Doodie’s Swedish Tea Ring
 layout: page
+image: doodies-swedish-tea-ring.jpeg
 ---
+
+
 
 # Ingredients
 
