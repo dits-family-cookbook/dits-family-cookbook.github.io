@@ -52,19 +52,19 @@ layout: page
 
 - the following day, remove all cold ingredients (yudane, yeast, margarine, eggs) from the fridge 2 to 3 hrs before starting the dough recipe.  Place the yudane in the oven with the light on (still covered).
 - 2 to 3 hrs later, begin making the dough
-- mix the 600 g flour, sugar, yeast, and salt in a large mixing bowl
-- tear the yudane into walnut sized pieces and mix into the dry ingredients (only so evenly distributed, not trying to actually knead it in at this point)
 - gently bring the milk to about 55 or 60 C in a small pot.  Again, be sure there will be 200 g available once heating and measuring is complete
-- pour the milk in to a small bowl to be measured, then monitor temperature until at approx 50 C
-- add the milk, eggs, and margarine/butter to the dry ingredients and stir with a large spoon until mostly mixed
-- start kneading the dough a bit in the bowl, then transfer to a lightly floured surface
+- measure the 200 g milk in to a large bowl, then monitor temperature until at approx 50 C
+- add the sugar and yeast, stir, and let sit for 5 minutes
+- add the eggs, margarine/butter, and salt
+- tear the yudane into walnut sized pieces and mix in
+- add the 600 g flour about a cup at a time until a nice dough forms in the bowl
+- transfer to a lightly floured surface
 - knead until the dough passes the "window pane" test
 - cover with plastic wrap and place in the oven (light on) for 1 hour
-- after 1 hr, remove from oven and place dough on counter
-- punch the dough down
+- after 1 hr, remove dough from oven and punch it down
 - roll out to a rectangle approximately 14 x 22 inches.  Tip - to get a nice rectangle shape, roll to a rough rectangle, then fold in thirds so the long end shifts 90 degrees, then roll out in this new orientation
 - lightly butter, leaving 1 inch unbuttered on one side 
-- might the brown sugar and cinnamon  in a bowl, then sprinkle over the butter
+- mix the brown sugar and cinnamon in a bowl, then sprinkle over the butter
 - roll the dough (from the opposite end of the 1 inch unbuttered side) into a log (so it ends up as long as the longest side of the rectangle).  Don't roll too tight, or the centers will pop out while baking.
 - use a ruler or tape measure and make marks every 2 inches along the roll (not as big of a pain as it sounds)
 - using dental floss, slide the floss under the roll, then cross on top and pull tight to cut the roll into individual buns
