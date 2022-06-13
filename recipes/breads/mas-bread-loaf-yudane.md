@@ -1,5 +1,5 @@
 ---
-title: Ma's Bread Loaf
+title: Ma's Bread Loaf (Yudane)
 layout: page
 ---
 
