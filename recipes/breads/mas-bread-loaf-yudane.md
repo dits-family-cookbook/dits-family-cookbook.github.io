@@ -7,16 +7,16 @@ layout: page
 
 ### Yudane
 
-* 300 g flour (about 2 cups) 
-* 300 g water (about 1 1/2 cups)
+* 250 g flour
+* 300 g water (boiling)
 
 
 ### Dough
 
-* 250 g milk (about 1 C)
+* 250 g milk
 * 2 tablespoons butter
 * 2 tablespoons white sugar
-* 50 g water (about 1/4 C)
+* 50 g water
 * 2 tablespoons yeast
 * 2 teaspoons salt
 * 600 to 700 g bread flour
@@ -24,7 +24,15 @@ layout: page
 
 # Directions
 
-1. This recipe makes 2 loaves
+This recipe makes 2 loaves.
+
+### Yudane
+
+1. Make the yudane the night before by mixing the flour and boiling water in a medium sized bowl, cover with cling wrap, let sit for an hour, then refrigerate overnight.
+
+
+### Next Day
+
 1. Heat milk and butter to melt. Let cool.
 1. Pour 1/4 cup warm water in small bowl with sugar. Add yeast. Stir. Set aside for 5 minutes.
 1. In large bowl pour in milk & butter mixture, salt, and yeast mixture.
