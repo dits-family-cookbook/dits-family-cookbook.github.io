@@ -6,7 +6,7 @@ help:
 
 .PHONY: recipes-list
 recipes-list:
-	grep "title:" recipes/ -ir | sed 's|.*title:||g'  | sort | uniq > recipes-list.txt
+	find recipes/ -iname "*.md" | sed 's|^recipes/||g' | sed 's|/| -> |g' | sed 's|.md$$||g' | sort > recipes-list.txt
 
 
 install:
