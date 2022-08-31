@@ -6,7 +6,7 @@ help:
 
 .PHONY: recipes-list
 recipes-list:
-	find recipes/ -iname "*.md" | sed 's|^recipes/||g' | awk -F / '{print $(NF-1) " :: " $NF}' | sort > recipes-list.txt
+	find recipes/ -iname "*.md" | sed 's|^recipes/||g' | awk -F / '{print $$(NF-1) " :: " $$NF}' | sort > recipes-list.txt
 
 
 install:
