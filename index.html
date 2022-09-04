@@ -19,7 +19,7 @@
 
         	<v-row>
         		<v-col cols="12">
-		        	<v-card>
+		        	<v-card elevation="8">
 		        	  <v-img src="img/banner.png"></v-img>
 		        	</v-card>
 		        </v-col>
@@ -27,13 +27,13 @@
 
         	<v-row v-for="category in recipes" :key="category">
         		<v-col cols="12">
-		        	<v-card>
+		        	<v-card elevation="8">
 		        		<v-row no-gutters>
-		        		  <v-col cols="4">
-		        	      <v-img class="mt-4 ml-4" :src="imgDir.concat(category.img)"></v-img>
+		        		  <v-col cols="3">
+		        	      <v-img :aspect-ratio="1/1" class="mt-4 ml-4" :src="imgDir.concat(category.img)" style="border: 1px solid #999"></v-img>
 		        	    </v-col>
-		        	    <v-col cols="8">
-                    <v-card-title class="text-h5 mt-4">{{ category.category }}</v-card-title>
+		        	    <v-col cols="9">
+                    <v-card-title class="text-h5 mt-2">{{ category.category }}</v-card-title>
                     <v-card-subtitle class="text-h6">{{ category.subcategory }}</v-card-subtitle>
 		        	    </v-col>
 		        	  </v-row>
