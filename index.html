@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+  <style>
+    a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <v-app>
+      <v-main>
+        <v-container>
+
+        	<v-row>
+        		<v-col cols="12">
+		        	<v-card>
+		        	  <v-img src="img/banner.png"></v-img>
+		        	</v-card>
+		        </v-col>
+		      </v-row>
+
+        	<v-row v-for="category in recipes" :key="category">
+        		<v-col cols="12">
+		        	<v-card>
+		        		<v-row no-gutters>
+		        		  <v-col cols="4">
+		        	      <v-img class="mt-4 ml-4" :src="imgDir.concat(category.img)"></v-img>
+		        	    </v-col>
+		        	    <v-col cols="8">
+                    <v-card-title class="text-h5 mt-4">{{ category.category }}</v-card-title>
+                    <v-card-subtitle class="text-h6">{{ category.subcategory }}</v-card-subtitle>
+		        	    </v-col>
+		        	  </v-row>
+		        	  <v-card-text>
+		        	    <v-template v-for="(recipe, recipeIndex) in category.recipes" :key="recipeIndex"> 
+			        	    <v-list-item>
+	       	            <v-list-item-content>
+	       	              <v-list-item-title class="text-h5">{{ recipe.title }}</v-list-item-title>
+	       	            </v-list-item-content>
+			        	    </v-list-item>
+			        	    <v-divider v-if="recipeIndex < category.recipes.length - 1" :key="recipeIndex"></v-divider>
+			        	  </v-template>
+		        	  </v-card-text>
+		        	</v-card>
+		        </v-col>
+		      </v-row>
+		      
+        </v-container>
+      </v-main>
+    </v-app>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js"></script>
+  <script>
+    new Vue({
+      el: '#app',
+      vuetify: new Vuetify(),
+      data() {
+        return {
+          imgDir: "img/",
+          recipes: []
+        }
+      },
+      computed: {},
+      methods: {},
+      mounted() {
+       axios
+         .get("/recipes.json")
+         .then(response => {
+           this.recipes = response.data;
+         });
+      },
+    })
+  </script>
+</body>
+</html>
