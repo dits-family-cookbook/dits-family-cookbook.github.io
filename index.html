@@ -41,7 +41,7 @@
 		        	    <v-template v-for="(recipe, recipeIndex) in category.recipes" :key="recipeIndex"> 
 			        	    <v-list-item>
 	       	            <v-list-item-content>
-	       	              <v-list-item-title class="text-h5">{{ recipe.title }}</v-list-item-title>
+	       	              <v-list-item-title class="text-h5"><a :href="getRecipeUri(recipe.key)">{{ recipe.title }}</a></v-list-item-title>
 	       	            </v-list-item-content>
 			        	    </v-list-item>
 			        	    <v-divider v-if="recipeIndex < category.recipes.length - 1" :key="recipeIndex"></v-divider>
@@ -65,12 +65,16 @@
       vuetify: new Vuetify(),
       data() {
         return {
-          imgDir: "img/",
-          recipes: []
+          recipes: [],
+          imgDir: "img/"
         }
       },
       computed: {},
-      methods: {},
+      methods: {
+      	getRecipeUri: function(key) {
+      		return `recipe.html?r=${key}`;
+      	}
+      },
       mounted() {
        axios
          .get("/recipes.json")

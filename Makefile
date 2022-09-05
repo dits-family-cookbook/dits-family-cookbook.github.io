@@ -2,7 +2,12 @@ SHELL=/bin/bash
 
 
 help:
+	@echo "recipes.json"
 	@echo "recipes-list"
+
+.PHONY: recipes.json
+recipes.json:
+	venv/bin/python recipes2json.py > recipes.json
 
 .PHONY: recipes-list
 recipes-list:
