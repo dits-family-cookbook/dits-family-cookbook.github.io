@@ -1,10 +1,9 @@
----
 title: Crackle Top Peanut Butter Cookies
-layout: page
----
+key: crackle-top-peanut-butter-cookies
+images: []
 
+sections:
 - Ingredients:
-
   - 3/4 cup margarine
   - 1/2 cup white sugar
   - 1/2 cup brown sugar
@@ -16,7 +15,6 @@ layout: page
   - 1/2 teaspoon salt
 
 - Directions:
-
   - Cream margarine with sugars.
   - Stir in egg, peanut butter and vanilla.
   - Stir dry ingredients together and add to creamed mixture.
