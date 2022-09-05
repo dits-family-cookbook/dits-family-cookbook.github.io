@@ -1,8 +1,8 @@
----
 title: Gingerbread Cake
-layout: page
----
+key: gingerbread-cake
+images: []
 
+sections:
 - Ingredients:
 
   - 1/2 cup boiling water
@@ -19,9 +19,9 @@ layout: page
 
 - Directions:
 
-  - Pour boiling water over shortening and add sugar and molasses. Beat thoroughly. When a little cooler add egg and beat again.
+  - Pour boiling water over shortening and add sugar and molasses. Beat thoroughly.
+    When a little cooler add egg and beat again.
   - Sift dry ingredients together and add to first mixture - beat smooth.
   - Pour into a well greased 8 inch square baking pan.
   - Bake at 350 degrees F. for 35 minutes.
-
-Good with custard sauce!
+  - Good with custard sauce!
