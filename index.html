@@ -30,7 +30,7 @@
 		        	<v-card elevation="8">
 		        		<v-row no-gutters>
 		        		  <v-col cols="3">
-		        	      <v-img :aspect-ratio="1/1" class="mt-4 ml-4" :src="imgDir.concat(category.img)" style="border: 1px solid #999"></v-img>
+		        	      <v-img :aspect-ratio="1/1" class="mt-4 ml-4" :src="imgBase.concat(category.img)" style="border: 1px solid #999"></v-img>
 		        	    </v-col>
 		        	    <v-col cols="9">
                     <v-card-title class="text-h5 mt-2">{{ category.category }}</v-card-title>
@@ -66,7 +66,7 @@
       data() {
         return {
           recipes: [],
-          imgDir: "img/"
+          imgBase: "img/categories/"
         }
       },
       computed: {},

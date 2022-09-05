@@ -1,5 +1,3 @@
-bars :: bettys-arrowroot-bar
-bars :: kittys-peanut-butter-bar
 breads :: mas-bread-loaf
 breads :: mas-bread-loaf-yudane
 breads :: mas-raisin-bread
@@ -41,7 +39,6 @@ cookies :: kays-peanutbutter-cookies
 cookies :: pats-maple-walnut-biscotti
 cookies :: sesame-cookies
 desserts :: cherry-cha-cha
-desserts :: doodies-swedish-tea-ring
 desserts :: gingerbread
 desserts :: green-pistachio-dessert
 desserts :: johns-yudane-cinnamon-buns

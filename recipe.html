@@ -16,23 +16,23 @@
     <v-app>
       <v-main>
         <v-container>
-
-        	<v-row>
-        		<v-col cols="12">
 		        	<v-card elevation="8">
-		        	  <v-card-title class="text-h2 font-weight-bold">{{ recipe.title }}</v-card-title>		        	  
+		        	  <v-card-title style="word-break: normal !important;" class="grey--text text--darken-2 justify-center text-h4 text-md-h2 font-weight-bold pt-8">{{ recipe.title }}</v-card-title>
+                  <v-carousel v-if="recipe.images.length > 0" class="mt-8">
+                    <v-carousel-item v-for="(slide, i) in recipe.images" :key="i" :src="imgBase.concat(slide)"></v-carousel-item>
+                  </v-carousel>
 									<template v-for="section in recipe.sections">
                     <v-card-text v-for="(sectionItems, sectionName) in section">
-                        {{ sectionName }}
-	                      <li v-for="item in sectionItems" class="text-h4">
+                      <v-divider></v-divider>
+                      <h3 class="text-h4 text-md-h2 font-weight-bold mt-8 mb-8" style="color:#ee6002">{{ sectionName }}</h3>
+                      <ul class="ml-2" style="line-height: 2">
+	                      <li v-for="item in sectionItems" class="text-h5 text-md-h4" style="line-height: 1.5">
 	                        {{ item }}
 	                      </li>
+                      </ul>
 	                  </v-card-text>
 									</template>		        	  
 		        	</v-card>
-		        </v-col>
-		      </v-row>
-        		      
         </v-container>
       </v-main>
     </v-app>
@@ -50,7 +50,7 @@
         	recipes: [],
         	recipe: null,
         	recipeKey: null,
-          imgDir: "img/",
+          imgBase: "img/",
         }
       },
       computed: {},
