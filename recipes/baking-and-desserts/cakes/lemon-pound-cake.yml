@@ -1,10 +1,9 @@
----
 title: Lemon Pound Cake
-layout: page
----
+key: lemon-pound-cake
+images: []
 
+sections:
 - Ingredients:
-
   - 1 lemon flavoured cake mix
   - 1 3.4 ounce lemon flavour instant pudding mix
   - 4 eggs
@@ -17,9 +16,7 @@ layout: page
   - Pour batter into greased and floured bundt pan.
   - Bake at 350 degrees F. for 50 - 60 minutes.
 
-# Icing
-
+- Icing:
   - 2 cups icing sugar
   - 2 tablespoons lemon juice
-
-Sift icing sugar and stir in lemon juice. Drizzle over cooled lemon cake.
+  - Sift icing sugar and stir in lemon juice. Drizzle over cooled lemon cake.

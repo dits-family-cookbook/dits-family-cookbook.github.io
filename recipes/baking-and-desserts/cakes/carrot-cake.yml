@@ -1,10 +1,9 @@
----
 title: Carrot Cake
-layout: page
----
+key: carrot-cake
+images: []
 
+sections:
 - Ingredients:
-
   - 3 eggs, beaten
   - 1 1/2 cups vegetable oil
   - 2 cups white sugar
@@ -21,17 +20,15 @@ layout: page
 
 
 - Directions:
-
-  - Mix first four ingredients together. Stir together flour, cinnamon, baking soda and salt. Stir this into first wet mixture.
+  - Mix first four ingredients together. Stir together flour, cinnamon, baking soda
+    and salt. Stir this into first wet mixture.
   - Stir in last four ingredients.
   - Spread into a 9" x 13" pan which has been greased.
   - Bake at 350 degrees F. for 40 minutes.
 
-# Frosting for Cake
-
+- Frosting for Cake:
   - 1 - 8 ounce package cream cheese
   - 4 tablespoons butter
   - 2 1/2 cups icing sugar
   - 2 teaspoons vanilla
-
-Beat until smooth. Spread on cooled cake.
+  - Beat until smooth. Spread on cooled cake.

@@ -1,10 +1,9 @@
----
 title: Nancy's Yoghurt Coffee Cake
-layout: page
----
+key: nancys-yoghurt-coffee-cake
+images: []
 
+sections:
 - Ingredients:
-
   - 1/2 cup butter
   - 1 cup white sugar
   - 2 eggs
@@ -17,13 +16,15 @@ layout: page
   - 2 teaspoons cinnamon
 
 - Directions:
-
   - Cream the butter with the white sugar.
   - Add the eggs, one at a time. Add the vanilla.
   - Mix the baking powder and flour together.
   - Stir the baking soda into the yoghurt.
-  - Add the flour mixture and the yoghurt mixture alternately to the creamed mixture in thirds.
+  - Add the flour mixture and the yoghurt mixture alternately to the creamed mixture
+    in thirds.
   - Mix the brown sugar and cinnamon together.
   - Grease and flour a bundt pan.
-  - Spoon about 1/4 of the batter into the bottom of the bundt pan, then sprinkle the brown sugar/cinnamon mixture then the rest of the batter.
-  - Bake at 350 degrees F. for 35 minutes or until tooth pick inserted in centre of cake comes out clean. 
+  - Spoon about 1/4 of the batter into the bottom of the bundt pan, then sprinkle
+    the brown sugar/cinnamon mixture then the rest of the batter.
+  - Bake at 350 degrees F. for 35 minutes or until tooth pick inserted in centre of
+    cake comes out clean.

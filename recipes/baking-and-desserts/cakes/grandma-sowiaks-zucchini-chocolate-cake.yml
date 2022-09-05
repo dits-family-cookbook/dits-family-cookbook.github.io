@@ -1,10 +1,9 @@
----
 title: Grandma Sowiak's Zucchini Chocolate Cake
-layout: page
----
+key: grandma-sowiaks-zucchini-chocolate-cake
+images: []
 
+sections:
 - Ingredients:
-
   - 1/2 cup margarine
   - 1/2 cup oil
   - 1 1/2 cups white sugar
@@ -21,9 +20,9 @@ layout: page
   - a couple handfuls of dark chocolate chips
 
 - Directions:
-
   - Cream margarine and sugar. Add oil, slightly beaten eggs and vanilla.
-  - Sift dry ingredients together and add to sugar/oil mixture alternately with sour milk.
+  - Sift dry ingredients together and add to sugar/oil mixture alternately with sour
+    milk.
   - Fold in grated zucchini.
   - Spread in 13 x 9 inch pan and sprinkle top with couple handfuls of chocolate chips.
   - Bake at 350 degrees F for 30 to 35 minutes.

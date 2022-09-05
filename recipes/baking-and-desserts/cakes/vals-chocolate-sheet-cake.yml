@@ -1,10 +1,9 @@
----
 title: Val's Chocolate Sheet Cake
-layout: page
----
+key: vals-chocolate-sheet-cake
+images: []
 
+sections:
 - Ingredients:
-
   - 2 cups white sugar
   - 2 cups all purpose flour
   - 1 cup margarine
@@ -15,7 +14,6 @@ layout: page
   - 1 teaspoon vanilla
 
 - Directions:
-
   - Mix sugar and flour together.
   - In a saucepan, bring to a boil the margarine, cocoa and water.
   - Add to the flour, sugar mixture and beat well.
@@ -23,10 +21,7 @@ layout: page
   - Pour into greased 9" x 13" pan or 2 round 8" pans.
   - Bake 350 degrees F. for 30 minutes.
 
-### Frosting
-
-- Ingredients:
-
+- Frosting Ingredients:
   - 1/2 cup butter
   - 4 tablespoons cocoa
   - 6 tablespoons milk
@@ -34,8 +29,7 @@ layout: page
   - 1 teaspoon vanilla
   - 1/2 cup nuts, chopped
 
-- Directions:
-
+- Frosting Directions:
   - Bring to a boil in a saucepan the butter, cocoa and the milk.
   - Add the icing sugar, vanilla and the nuts.
   - Pour on the cake while still hot and place under broiler until it bubbles.

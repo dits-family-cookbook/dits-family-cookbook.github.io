@@ -1,8 +1,8 @@
----
 title: Grandma Sowiak's Banana Muffins
-layout: page
----
+key: grandma-sowiaks-banana-muffins
+images: []
 
+sections:
 - Ingredients:
 
   - 3 bananas mashed
@@ -15,12 +15,10 @@ layout: page
   - 1 teaspoon baking powder
   - 1 teaspoon vanilla
 
-# Topping Ingredients
-
+- Topping Ingredients:
   - 2 tablespoons white sugar mixed with 1 teaspoon cinnamon
 
 - Directions:
-
   - In a mixing bowl, stir in all ingredients in the order listed.
   - Spoon into paper lined muffin pans.
   - Sprinkle with topping mixture.

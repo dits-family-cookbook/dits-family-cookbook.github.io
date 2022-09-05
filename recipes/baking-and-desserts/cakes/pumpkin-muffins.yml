@@ -1,10 +1,9 @@
---- 
 title: Pumpkin Muffins
-layout: page
----
+key: pumpkin-muffins
+images: []
 
+sections:
 - Ingredients:
-
   - 4 eggs
   - 2 cups white sugar
   - 1 1/2 cups oil
@@ -17,10 +16,10 @@ layout: page
   - 2 cups raisins
 
 - Directions:
-
   - Beat eggs slightly. Add sugar, oil and pumpkin and beat thoroughly.
   - Sift dry ingredients together and blend into first mixture.
   - Stir in raisins.
   - Line muffin pans with paper muffin liners. Spoon batter into muffin pans.
-  - Bake 400 degrees F. for 15 minutes or until toothpick inserted into centre of one muffin comes out clean.
+  - Bake 400 degrees F. for 15 minutes or until toothpick inserted into centre of
+    one muffin comes out clean.
   - Makes about 2 dozen muffins.

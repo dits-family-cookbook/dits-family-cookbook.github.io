@@ -1,10 +1,9 @@
----
 title: Matrimonial Cake
-layout: page
----
+key: matrimonial-cake
+images: []
 
+sections:
 - Ingredients:
-
   - 3 cups dates
   - 1 1/2 cups water
   - 3/4 cups margarine
@@ -14,21 +13,16 @@ layout: page
   - 1 tsp salt
   - 1 1/2 cups oats
 
-- Directions:
-
-## Filling
-
+- Filling:
   - stir dates and water over low heat until thick
   - let cool
 
-## Crust
-
+- Crust:
   - cream together margarine and brown sugar
   - stir in flour, soda, and salt
   - stir in oats
 
-## Baking
-
+- Baking:
   - spread 1/2 of crust mixture in greased 13" x 19" pan
   - pat down
   - add filling and spread evenly

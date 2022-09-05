@@ -1,10 +1,9 @@
----
 title: Blueberry Muffins
-layout: page
----
+key: blueberry-muffins
+images: []
 
+sections:
 - Ingredients:
-
   - 2 cups all purpose flour
   - 2 teaspoons baking powder
   - 3/4 teaspoon salt
@@ -18,8 +17,8 @@ layout: page
   - 2 tablespoons demerara sugar
 
 - Directions:
-
-  - Cream butter and white sugar. Add eggs one at a time, then add vanilla and almond extract.
+  - Cream butter and white sugar. Add eggs one at a time, then add vanilla and almond
+    extract.
   - Mix flour, baking powder and salt together.
   - Add flour mixture alternately with milk to creamed mixture in thirds.
   - Fold in blueberries - do not overmix.

@@ -1,10 +1,9 @@
----
 title: Carrot Pineapple Muffins
-layout: page
----
+key: carrot-pineapple-muffins
+images: []
 
+sections:
 - Ingredients:
-
   - 1 1/2 cups plus 2 tablespoons all purpose flour
   - 1 cup white sugar
   - 1 teaspoon baking soda
@@ -17,9 +16,8 @@ layout: page
   - 1 cup crushed pineapple, drained
 
 - Directions:
-
   - Mix dry ingredients together.
   - Mix wet ingredients together. (Sugar usually counts as a wet ingredient.)
   - Then quickly stir the wet ingredients into the dry ingredients.
   - Use paper liners for the muffin pans. Makes 1 dozen muffins.
-  - Bake at 375 degrees F. for 20 minutes. 
+  - Bake at 375 degrees F. for 20 minutes.

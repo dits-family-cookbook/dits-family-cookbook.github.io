@@ -1,10 +1,10 @@
----
 title: Dudie's Rhubarb Muffins
-layout: page
----
+key: dudies-rhubarb-muffins
+images: []
+
+sections:
 
 - Ingredients:
-
   - 3 eggs
   - 1 1/2 cups brown sugar
   - 1 teaspoon vanilla
@@ -19,18 +19,15 @@ layout: page
   - 1/2 teaspoon nutmeg
 
 - Directions:
-
   - Combine wet ingredients until foamy.
   - Add rhubarb and pecans.
   - Mix dry ingredients together and stir into wet ingredient mixture.
-  - Spoon into paper lined muffin pans. Then sprinkle with topping given below:
+  - Spoon into paper lined muffin pans. Then sprinkle with topping given below
+  - Makes 18 to 24 muffins. Bake at 350 degrees F. for 25 to 30 minutes.
 
-Topping:
+- Topping:
   - 1/4 cup chopped pecans
   - 1/4 cup all purpose flour
   - 1/4 cup white sugar
   - 1/4 cup chopped butter
-
-Mix together like pastry. 
-
-Makes 18 to 24 muffins. Bake at 350 degrees F. for 25 to 30 minutes.
+  - Mix together like pastry.
