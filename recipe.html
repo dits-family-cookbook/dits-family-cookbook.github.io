@@ -16,15 +16,15 @@
     <v-app>
       <v-main>
         <v-container>
-		        	<v-card elevation="8">
-		        	  <v-card-title style="word-break: normal !important;" class="grey--text text--darken-2 justify-center text-h4 text-md-h2 font-weight-bold pt-8">{{ recipe.title }}</v-card-title>
-                  <v-carousel v-if="recipe.images.length > 0" class="mt-8">
+		        	<v-card elevation="8" class="pb-8">
+		        	  <v-card-title style="background: #def; word-break: normal !important;" class="grey--text text--darken-2 text-center justify-center text-h4 text-md-h2 font-weight-bold pt-8 pb-8">{{ recipe.title }}</v-card-title>
+									<v-divider></v-divider>
+                  <v-carousel v-if="recipe.images.length > 0" class="mt-8">                    
                     <v-carousel-item v-for="(slide, i) in recipe.images" :key="i" :src="imgBase.concat(slide)"></v-carousel-item>
                   </v-carousel>
 									<template v-for="section in recipe.sections">
-                    <v-card-text v-for="(sectionItems, sectionName) in section">
-                      <v-divider></v-divider>
-                      <h3 class="text-h4 text-md-h2 font-weight-bold mt-8 mb-8" style="color:#ee6002">{{ sectionName }}</h3>
+                    <v-card-text v-for="(sectionItems, sectionName) in section">                      
+                      <h3 class="text-center justify-center text-h4 text-md-h2 font-weight-bold mt-8 mb-8" style="color:#ee6002">{{ sectionName }}</h3>
                       <ul class="ml-2" style="line-height: 2">
 	                      <li v-for="item in sectionItems" class="text-h5 text-md-h4" style="line-height: 1.5">
 	                        {{ item }}
