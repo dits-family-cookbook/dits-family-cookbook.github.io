@@ -5,12 +5,17 @@ import sys
 import yaml
 from pathlib import Path
 
+from slugify import slugify
 
 def load_recipes(recipes_dir):
   r = []
   for recipe in recipes_dir.glob('*.yml'):
-    with recipe.open("r") as f:
-      r.append(yaml.safe_load(f))
+    with recipe.open("r") as f:      
+      data = yaml.safe_load(f)
+      data["key"] = slugify(f"{recipe.parent.name}-{recipe.stem}")
+      if not data.get("images"):
+        data["images"] = []
+      r.append(data)
   return sorted(r, key=lambda x: x["title"])
 
 
@@ -48,5 +53,14 @@ if __name__ == "__main__":
       "recipes":  load_recipes(Path("recipes/baking-and-desserts/desserts/"))
     }
   )
+  recipes.append(
+    {
+      "category": "Breads",
+      "subcategory": "",
+      "img": "breads.jpg",
+      "recipes":  load_recipes(Path("recipes/breads/"))
+    }
+  )
+
 
   print(json.dumps(recipes))

@@ -1,10 +1,9 @@
----
 title: Pita Bread
-layout: page
----
+images: []
 
+
+sections:
 - Ingredients:
-
   - 1 tablespoon yeast
   - 1/2 cup warm water
   - pinch of white sugar
@@ -15,7 +14,6 @@ layout: page
   - 2/3 cup cake and pastry flour
 
 - Directions:
-
   - Dissolve yeast in 1/2 cup warm water to which the pinch of sugar has been added. Let sit for 10 minutes.
   - Add the other ingredients to the yeast mixture in order with enough flour to make a soft dough.
   - Let rise for around 1 hour. Punch down.

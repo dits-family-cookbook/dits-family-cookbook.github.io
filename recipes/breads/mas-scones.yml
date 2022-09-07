@@ -1,10 +1,8 @@
----
 title: Ma's Scones
-layout: page
----
+images: []
 
+sections:
 - Ingredients:
-
   - 2 cups all purpose flour
   - 2 cups cake and pastry flour
   - 5 teaspoons baking powder
@@ -19,7 +17,6 @@ layout: page
   - 1 egg white, beaten with a fork
 
 - Directions:
-
   - Mix together the all purpose flour and the cake and pastry flour, the baking powder, the baking soda, salt and white sugar.
   - Cut the margarine into the flour mixture.
   - Add the raisins or dried fruit to the flour mixture.

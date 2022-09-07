@@ -1,10 +1,9 @@
----
 title: Ma's Raisin Bread
-layout: page
----
+images: []
 
+
+sections:
 - Ingredients:
-
   - 1 cup milk
   - 2 teaspoons salt
   - 1/2 cup white sugar
@@ -18,7 +17,6 @@ layout: page
   - 2 cups raisins
 
 - Directions:
-
   - Heat the milk. Stir in the salt, the 1/2 cup sugar, the shortening, and the 3/4 cup water. Let cool.
   - Measure the other 1/2 cup warm water into a small bowl. Stir in the 2 teaspoons sugar and sprinkle on the yeast. Let stand for 10 minutes, then stir to blend.
   - Stir the milk mixture into the yeast mixture after it has cooled. Add the well beaten egg.
