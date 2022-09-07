@@ -1,10 +1,7 @@
----
 title: Chip Dip
-layout: page
----
 
+sections:
 - Ingredients:
-
   - 1 - 8 ounce package cream cheese
   - 1/4 teaspoon horseradish - or to taste
   - 2 tablespoons parsley
@@ -14,7 +11,6 @@ layout: page
   - 4 teaspoons lemon juice
 
 - Directions:
-
   - Slowly cream sour cream into cream cheese to make a creamy mixture.
   - Add all other ingredients and refrigerate.
   - Best made ahead of time to let the flavours set up.

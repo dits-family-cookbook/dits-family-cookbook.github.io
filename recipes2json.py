@@ -69,6 +69,15 @@ if __name__ == "__main__":
       "recipes":  load_recipes(Path("recipes/canning/"))
     }
   )
+  recipes.append(
+    {
+      "category": "Miscellaneous",
+      "subcategory": "",
+      "img": "misc.jpg",
+      "recipes":  load_recipes(Path("recipes/miscellaneous/"))
+    }
+  )
+
 
 
 
