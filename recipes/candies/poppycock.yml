@@ -1,10 +1,7 @@
----
 title: Poppycock
-layout: page
----
 
+sections:
 - Ingredients:
-
   - 6 quarts popped popcorn
   - 1 cup margarine
   - 2 cups brown sugar
@@ -15,7 +12,6 @@ layout: page
   - 1 cup or more of mixed nuts
 
 - Directions:
-
   - Stir popcorn and nuts in lightly buttered roasting pan.
   - Melt margarine in large saucepan. Add sugar, syrup and salt and boil for 2 to 3 minutes.
   - Remove from heat and stir in vanilla and soda. Be careful because it will foam up.

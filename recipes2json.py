@@ -48,7 +48,7 @@ if __name__ == "__main__":
   recipes.append(
     {
       "category": "Baking & Desserts",
-      "subcategory": "Desserts",
+      "subcategory": "Misc",
       "img": "desserts.jpg",
       "recipes":  load_recipes(Path("recipes/baking-and-desserts/desserts/"))
     }
@@ -61,6 +61,15 @@ if __name__ == "__main__":
       "recipes":  load_recipes(Path("recipes/breads/"))
     }
   )
+  recipes.append(
+    {
+      "category": "Canning",
+      "subcategory": "",
+      "img": "canning.jpg",
+      "recipes":  load_recipes(Path("recipes/canning/"))
+    }
+  )
+
 
 
   print(json.dumps(recipes))

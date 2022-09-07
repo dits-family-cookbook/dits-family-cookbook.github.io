@@ -1,10 +1,7 @@
----
 title: Sesame Brittle
-layout: page
----
 
+sections:
 - Ingredients:
-
   - 3/4 cup white sugar
   - 1/4 cup honey
   - pinch of salt
@@ -16,7 +13,6 @@ layout: page
   - 1/4 teaspoon baking soda
 
 - Directions:
-
   - Heat sugar, honey, water, salt and nutmeg in small pot on medium heat.
   - Stir in seeds.
   - Cook until mixture turns amber in colour - 5 to 10 minutes (300 degrees F.). Remove from heat.

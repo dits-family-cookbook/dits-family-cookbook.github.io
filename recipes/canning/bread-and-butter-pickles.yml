@@ -1,10 +1,7 @@
----
 title: Bread and Butter Pickles
-layout: page
----
 
+sections:
 - Ingredients:
-
   - 1/2 cup pickling salt
   - 12 cups water
   - 16 cups cucumbers
@@ -17,10 +14,10 @@ layout: page
   - 1 teaspoon whole cloves
 
 - Directions:
-
   - Slice the cucumbers and onions thin.
   - Mix the pickling salt in the water.
-  - Pour the salt water into an enamel or plastic bowl and add the sliced cucumbers and onions.
+  - Pour the salt water into an enamel or plastic bowl and add the sliced cucumbers
+    and onions.
   - Soak overnight.
   - Drain and rinse.
   - Boil vinegar, sugar and spices for 5 minutes.

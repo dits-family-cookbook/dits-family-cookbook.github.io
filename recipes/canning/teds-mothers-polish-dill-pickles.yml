@@ -1,10 +1,7 @@
----
 title: Ted's Mother's Polish Dill Pickles
-layout: page
----
 
+sections:
 - Ingredients:
-
   - 8 cups water
   - 1 cup vinegar
   - 4 tablespoons pickling salt
@@ -16,10 +13,9 @@ layout: page
   - dill cucumbers
 
 - Directions:
-
   - Bring water, vinegar, salt and sugar to a boil.
-  - Pack sealers with dill cucumbers, dill weed, a couple garlic cloves, a bay leaf and some peppercorns.
+  - Pack sealers with dill cucumbers, dill weed, a couple garlic cloves, a bay leaf
+    and some peppercorns.
   - Fill sealers to within 1/2 inch of top with brine.
   - With tops loose, cover sealers with boiling water. Let cool.
-
-This amount of brine makes about 4 quarts.
+  - This amount of brine makes about 4 quarts.

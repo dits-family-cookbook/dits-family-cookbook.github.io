@@ -1,10 +1,7 @@
----
 title: Peanut Brittle
-layout: page
----
 
+sections:
 - Ingredients:
-
   - 2 cups white sugar
   - 1 cup corn syrup
   - 1 cup water
@@ -14,7 +11,6 @@ layout: page
   - 2 teaspoons baking soda
 
 - Directions:
-
   - Mix sugar, syrup and water in sauce pan. Cover and heat to boiling.
   - Uncover and heat to 230 degrees F. (soft ball stage).
   - Stir in nuts slowly - keep boiling - cook rapidly to hard ball stage (250 degrees F.). Sir in butter.
