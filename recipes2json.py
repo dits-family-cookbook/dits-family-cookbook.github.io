@@ -77,8 +77,21 @@ if __name__ == "__main__":
       "recipes":  load_recipes(Path("recipes/miscellaneous/"))
     }
   )
-
-
-
+  recipes.append(
+    {
+      "category": "Salads",
+      "subcategory": "",
+      "img": "salads.jpg",
+      "recipes":  load_recipes(Path("recipes/salads/"))
+    }
+  )
+  recipes.append(
+    {
+      "category": "Soups & Stews",
+      "subcategory": "",
+      "img": "soups-and-stews.jpg",
+      "recipes":  load_recipes(Path("recipes/soups-and-stews/"))
+    }
+  )
 
   print(json.dumps(recipes))

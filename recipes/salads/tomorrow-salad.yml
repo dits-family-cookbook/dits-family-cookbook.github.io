@@ -1,10 +1,7 @@
----
 title: Tomorrow Salad
-layout: page
----
 
+sections:
 - Ingredients:
-
   - 1/4 cup white sugar
   - 1/4 cup white vinegar
   - 1 cup whipping cream
@@ -13,7 +10,6 @@ layout: page
   - 1/2 small bag coloured mini marshmallows
 
 - Directions:
-
   - Heat sugar and vinegar until thickened. Let cool.
   - Whip the whipping cream.
   - Drizzle the vinegar mixture into the whipped whipping cream and stir.

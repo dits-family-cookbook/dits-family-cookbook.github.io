@@ -1,10 +1,7 @@
----
 title: Zucchini Soup
-layout: page
----
 
+sections:
 - Ingredients:
-
   - 2 cups chicken or vegetable stock
   - 1 round onion, chopped
   - 2 pounds zucchini, not peeled but do cut out the seeds
@@ -13,12 +10,10 @@ layout: page
   - dill or chives, chopped fine
 
 - Directions:
-
   - Boil together until soft the stock, onion and zucchini - about 15 minutes.
   - Add salt and pepper to taste.
   - Add the cream cheese.
   - Let cool.
   - Puree in batches.
   - Add dill or chives chopped fine.
-
-Good either hot or cold.
+  - Good either hot or cold.

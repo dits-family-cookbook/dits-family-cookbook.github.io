@@ -1,10 +1,7 @@
----
 title: Lemon Lime Jello Salad
-layout: page
----
 
+sections:
 - Ingredients:
-
   - 1 small lemon jello
   - 1 small lime jello
   - 2 cups boiling water
@@ -17,10 +14,8 @@ layout: page
   - 1 cup celery, chopped
 
 - Directions:
-
   - Dissolve the lemon and lime jellos in the boiling water. Let cool until partially set.
   - Add remaining ingredients in order given.
   - Mix well.
   - Refrigerate.
-
-This was good but don't be afraid to leave things out you think you might not like. I didn't put in the mayonnaise or the horseradish.
+  - This was good but don't be afraid to leave things out you think you might not like. I didn't put in the mayonnaise or the horseradish.
