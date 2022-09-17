@@ -33,15 +33,15 @@
 		        	      <v-img :aspect-ratio="1/1" class="mt-4 ml-4" :src="imgBase.concat(category.img)" style="border: 1px solid #999"></v-img>
 		        	    </v-col>
 		        	    <v-col cols="8">
-                    <v-card-title class="font-weight-medium text-h5 mt-2 ">{{ category.category }}</v-card-title>
-                    <v-card-subtitle class="text-h5">{{ category.subcategory }}</v-card-subtitle>
+                    <v-card-title class="font-weight-medium text-h5 text-md-h2 mt-2 ">{{ category.category }}</v-card-title>
+                    <v-card-subtitle class="text-h5 text-md-h3">{{ category.subcategory }}</v-card-subtitle>
 		        	    </v-col>
 		        	  </v-row>
 		        	  <v-card-text>
 		        	    <v-template v-for="(recipe, recipeIndex) in category.recipes" :key="recipeIndex"> 
 			        	    <v-list-item>
 	       	            <v-list-item-content>
-	       	              <v-list-item-title class="text-h6"><a :href="getRecipeUri(recipe.key)">{{ recipe.title }}</a></v-list-item-title>
+	       	              <v-list-item-title class="text-h6 text-md-h3"><a :href="getRecipeUri(recipe.key)">{{ recipe.title }}</a></v-list-item-title>
 	       	            </v-list-item-content>
 			        	    </v-list-item>
 			        	    <v-divider v-if="recipeIndex < category.recipes.length - 1" :key="recipeIndex"></v-divider>
