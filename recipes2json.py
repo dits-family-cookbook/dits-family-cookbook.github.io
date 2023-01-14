@@ -79,6 +79,14 @@ if __name__ == "__main__":
   )
   recipes.append(
     {
+      "category": "Main Courses",
+      "subcategory": "",
+      "img": "mains.jpg",
+      "recipes":  load_recipes(Path("recipes/main-dishes/"))
+    }
+  )
+  recipes.append(
+    {
       "category": "Salads",
       "subcategory": "",
       "img": "salads.jpg",
