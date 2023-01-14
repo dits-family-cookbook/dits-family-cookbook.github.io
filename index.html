@@ -77,7 +77,7 @@
       },
       mounted() {
        axios
-         .get("/recipes.json")
+         .get(`/recipes.json?nocache=${Math.floor(Math.random() * 1000000)}`)
          .then(response => {
            this.recipes = response.data;
          });
