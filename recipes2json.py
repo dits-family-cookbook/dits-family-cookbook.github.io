@@ -32,7 +32,7 @@ if __name__ == "__main__":
   recipes.append(
     {
       "category": "Baking & Desserts",
-      "subcategory": "Cakes",
+      "subcategory": "Cakes & Muffins",
       "img": "cakes.jpg",
       "recipes":  load_recipes(Path("recipes/baking-and-desserts/cakes/"))
     }
