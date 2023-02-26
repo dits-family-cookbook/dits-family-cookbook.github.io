@@ -1,6 +1,5 @@
 SHELL=/bin/bash
 
-
 all: recipes.json recipes-list
 
 .PHONY: recipes.json

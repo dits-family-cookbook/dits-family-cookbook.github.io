@@ -56,6 +56,7 @@ desserts :: mas-butter-tarts.yml
 desserts :: mas-rolly-polly.yml
 main-dishes :: french-canadian-tourtiere.yml
 main-dishes :: johns-chili.yml
+main-dishes :: johns-falafel-loaf.yml
 main-dishes :: lemon-garlic-chicken.yml
 main-dishes :: mushroom-tarts.yml
 main-dishes :: pizza-dough.yml
@@ -63,6 +64,7 @@ main-dishes :: uptown-grandmas-baked-beans.yml
 miscellaneous :: chip-dip.yml
 miscellaneous :: harvest-crunch.yml
 miscellaneous :: yorkshire-pudding.yml
+salads :: ernies-cucumbers-sweet-vinaigrette.yml
 salads :: lemon-lime-jello-salad.yml
 salads :: tomorrow-salad.yml
 soups-and-stews :: black-bean-salsa-soup.yml
