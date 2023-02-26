@@ -56,7 +56,6 @@ desserts :: mas-butter-tarts.yml
 desserts :: mas-rolly-polly.yml
 main-dishes :: french-canadian-tourtiere.yml
 main-dishes :: johns-chili.yml
-main-dishes :: johns-falafel-loaf.yml
 main-dishes :: lemon-garlic-chicken.yml
 main-dishes :: mushroom-tarts.yml
 main-dishes :: pizza-dough.yml
