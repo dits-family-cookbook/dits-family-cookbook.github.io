@@ -12,7 +12,6 @@ cakes :: blueberry-muffins.yml
 cakes :: carrot-cake.yml
 cakes :: carrot-pineapple-muffins.yml
 cakes :: doodies-rhubarb-muffins.yml
-cakes :: johns-eggnog-cheesecake.yml
 cakes :: lemon-pound-cake.yml
 cakes :: matrimonial-cake.yml
 cakes :: nancys-yoghurt-coffee-cake.yml
