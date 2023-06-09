@@ -36,6 +36,7 @@ cookies :: chewy-chocolate-chip-cookies.yml
 cookies :: chocolate-chip-cookies.yml
 cookies :: coconut-meringues.yml
 cookies :: crackle-top-peanut-butter-cookies.yml
+cookies :: dits-iced-shortbread-cookies.yml
 cookies :: doodies-cornflake-drops.yml
 cookies :: grandma-stellas-drop-cookies.yml
 cookies :: grandma-towns-ginger-cookies.yml
