@@ -41,7 +41,7 @@ cookies :: doodies-cornflake-drops.yml
 cookies :: grandma-stellas-drop-cookies.yml
 cookies :: grandma-towns-ginger-cookies.yml
 cookies :: johnnys-ginger-cookies.yml
-cookies :: johns-millionaire-cookies.yml
+cookies :: johns-millionaire-bars.yml
 cookies :: kays-peanutbutter-cookies.yml
 cookies :: pats-maple-walnut-biscotti.yml
 cookies :: sesame-cookies.yml
