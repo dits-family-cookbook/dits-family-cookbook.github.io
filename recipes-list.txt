@@ -63,6 +63,7 @@ main-dishes :: pizza-dough.yml
 main-dishes :: uptown-grandmas-baked-beans.yml
 miscellaneous :: chip-dip.yml
 miscellaneous :: harvest-crunch.yml
+miscellaneous :: salted-caramel.yml
 miscellaneous :: yorkshire-pudding.yml
 salads :: ernies-cucumbers-sweet-vinaigrette.yml
 salads :: lemon-lime-jello-salad.yml
