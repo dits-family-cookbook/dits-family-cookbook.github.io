@@ -62,6 +62,7 @@ main-dishes :: mushroom-tarts.yml
 main-dishes :: pizza-dough.yml
 main-dishes :: uptown-grandmas-baked-beans.yml
 miscellaneous :: chip-dip.yml
+miscellaneous :: dits-french-pastry.yml
 miscellaneous :: harvest-crunch.yml
 miscellaneous :: salted-caramel.yml
 miscellaneous :: yorkshire-pudding.yml
