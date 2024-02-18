@@ -65,6 +65,7 @@ main-dishes :: uptown-grandmas-baked-beans.yml
 miscellaneous :: chip-dip.yml
 miscellaneous :: dits-french-pastry.yml
 miscellaneous :: harvest-crunch.yml
+miscellaneous :: johns-pan-seasoning.yml
 miscellaneous :: salted-caramel.yml
 miscellaneous :: yorkshire-pudding.yml
 salads :: ernies-cucumbers-sweet-vinaigrette.yml
