@@ -2,6 +2,12 @@ SHELL=/bin/bash
 
 all: recipes.json recipes-list
 
+.PHONY: venv
+venv:
+	python3 -m venv --clear venv
+	venv/bin/python -m pip install pip setuptools wheel -U
+	venv/bin/python -m pip install PyYAML python-slugify
+
 .PHONY: recipes.json
 recipes.json:
 	venv/bin/python recipes2json.py > recipes.json

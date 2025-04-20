@@ -15,6 +15,7 @@ cakes :: doodies-rhubarb-muffins.yml
 cakes :: lemon-pound-cake.yml
 cakes :: matrimonial-cake.yml
 cakes :: nancys-yoghurt-coffee-cake.yml
+cakes :: orange-cake.yml
 cakes :: pats-cheese-cake.yml
 cakes :: pumpkin-muffins.yml
 cakes :: sock-it-to-me-cake.yml
