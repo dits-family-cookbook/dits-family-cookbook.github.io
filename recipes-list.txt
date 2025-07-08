@@ -46,6 +46,7 @@ cookies :: johns-millionaire-bars.yml
 cookies :: kays-peanutbutter-cookies.yml
 cookies :: pats-maple-walnut-biscotti.yml
 cookies :: sesame-cookies.yml
+desserts :: blueberry-tarts.yml
 desserts :: cherry-cha-cha.yml
 desserts :: dits-pumpkin-pie.yml
 desserts :: doodies-swedish-tea-ring.yml
